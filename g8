@@ -1,0 +1,2 @@
+;Telegram 规则 g8
+IP-CIDR,149.154.160.0/20,no-resolve
