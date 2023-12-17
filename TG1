@@ -1,2 +1,2 @@
-;Telegram 规则 DC5新加坡
+;Telegram 规则 新加坡服务器
 IP-CIDR,91.108.56.0/22,no-resolve
