@@ -4,5 +4,6 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,https://legra.ph
+DOMAIN-SUFFIX,te.legra.ph
+DOMAIN-SUFFIX,legra.ph
 IP-CIDR,149.154.160.0/20,no-resolve
