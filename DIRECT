@@ -1,15 +1,14 @@
-#需要直连的列表（个人向），持续更新。
+#需要直连的列表（个人向），仅用于搭配全局规则，持续更新。
 
 
-#测试站
+#测试站#
 
 DOMAIN-SUFFIX,itdog.cn
 DOMAIN-SUFFIX,oschina.cn
 
 
 
-
-#VPS 商家
+#VPS 商家#
 
 #咕咕云
 DOMAIN-SUFFIX,ggy.net
@@ -21,9 +20,21 @@ DOMAIN-SUFFIX,cdn.bootcss.com
 
 
 
-
-
-#博客
+#博客#
 
 #瑞吾尔
 DOMAIN-SUFFIX,ruiwuer.com
+
+
+#视频#
+
+#555电影可直连
+DOMAIN-SUFFIX,ymuuy.com
+DOMAIN-SUFFIX,g.xlzyd.com
+
+
+
+
+
+
+#.
