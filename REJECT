@@ -12,10 +12,12 @@
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
 #文章底部卡片（未写）
+#文章底部推荐三篇（未写）
 #文章评论区头像
 DOMAIN-SUFFIX,wx.qlogo.cn
 #文章评论点赞按钮（未写）
-#评论区“写评论”按钮，拒绝瞎屄屄（未写）
+#评论区“写评论”按钮，杜绝瞎屄屄（未写）
+
 #文章底部固定栏（未写）
 
 #其它
