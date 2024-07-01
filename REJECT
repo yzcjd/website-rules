@@ -7,14 +7,16 @@
 #文章中末卡片
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
-#
+#文章评论区头像
+DOMAIN-SUFFIX,wx.qlogo.cn
+#其它
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+#偷的规则，先加上试试
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,as.weixin.qq.com
-DOMAIN-SUFFIX,badjs.weixinbridge.com
-#文章评论区头像
-DOMAIN-SUFFIX,wx.qlogo.cn
+
 
 #暂不确定副作用
 DOMAIN-SUFFIX,ulogs.umeng.com
