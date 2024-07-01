@@ -1,4 +1,8 @@
 #去广告规则  作者为TG频道@yzcjd频道主
+#使用方法：Clash 规则内添加以下规则，要在 GEOIP 上面。可以自行添加开关。
+#参考 proxy-rules 项目 tg3 规则写法，我会在里面添加很多实验性内容。
+#ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
+
 
 #自用部分（新规则测试中）
 
@@ -7,22 +11,28 @@
 #文章中末卡片
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
+#文章底部卡片（未写）
 #文章评论区头像
 DOMAIN-SUFFIX,wx.qlogo.cn
+#文章评论点赞按钮（未写）
+#文章底部固定栏（未写）
+
 #其它
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+
 #偷的规则，先加上试试
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,as.weixin.qq.com
 
-
-#暂不确定副作用
+#微信小程序相关，暂不确定副作用（咕咕咕）
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,shark.dianping.com
 DOMAIN-SUFFIX,file.neixin.cn
 DOMAIN-SUFFIX,dreport.meituan.net
+
+#肥羊转换去弹窗
 #DOMAIN-SUFFIX,spmbt.github.io
 #DOMAIN-SUFFIX,hoothin.github.io
 
