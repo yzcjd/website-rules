@@ -3,16 +3,26 @@
 #自用部分（新规则测试中）
 
 #微信广告
+
+#文章中末卡片
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
+#
+DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+DOMAIN-SUFFIX,ad.weixin.qq.com
+DOMAIN-SUFFIX,as.weixin.qq.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+#文章评论区头像
 DOMAIN-SUFFIX,wx.qlogo.cn
+
+#暂不确定副作用
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,shark.dianping.com
 DOMAIN-SUFFIX,file.neixin.cn
 DOMAIN-SUFFIX,dreport.meituan.net
-DOMAIN-SUFFIX,spmbt.github.io
-DOMAIN-SUFFIX,hoothin.github.io
+#DOMAIN-SUFFIX,spmbt.github.io
+#DOMAIN-SUFFIX,hoothin.github.io
 
 
 
