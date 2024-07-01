@@ -1,6 +1,10 @@
 #去广告规则  作者为TG频道@yzcjd频道主
 
 #自用部分（新规则测试中）
+
+#微信广告
+DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
+DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,wx.qlogo.cn
 DOMAIN-SUFFIX,ulogs.umeng.com
