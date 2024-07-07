@@ -8,20 +8,52 @@
 
 #微信广告
 
-#文章中末卡片
+#文章中末卡片【已确定】
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
 #文章底部卡片（未写）
 #文章底部推荐三篇（未写）
-#文章评论区头像
+IP-CIDR,112.60.25.77/22,no-resolve
+#文章评论区头像【已确定】
 DOMAIN-SUFFIX,wx.qlogo.cn
 #文章评论点赞按钮（未写）
 #评论区“写评论”按钮，杜绝瞎屄屄（未写）
-
 #文章底部固定栏（未写）
 
 #其它
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+
+#微信小程序
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,shark.dianping.com
+DOMAIN-SUFFIX,file.neixin.cn
+DOMAIN-SUFFIX,dreport.meituan.net
+
+#肥羊转换去弹窗
+DOMAIN-SUFFIX,spmbt.github.io
+DOMAIN-SUFFIX,hoothin.github.io
+
+
+#淘宝
+DOMAIN-SUFFIX,hudong.alicdn.com
+#淘宝直播
+DOMAIN-SUFFIX,live-spare.alicdn.com
+#京东
+DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
+DOMAIN-SUFFIX,blackhole.m.jd.com
+
+#Telegram 荷兰 95.161.76.101
+IP-CIDR,95.161.76.0/22,no-resolve
+
+#酷狗
+
+
+
+
+
+
+
 
 #偷的规则，先加上试试
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
@@ -29,15 +61,18 @@ DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,as.weixin.qq.com
 
-#微信小程序相关，暂不确定副作用（咕咕咕）
-DOMAIN-SUFFIX,ulogs.umeng.com
-DOMAIN-SUFFIX,shark.dianping.com
-DOMAIN-SUFFIX,file.neixin.cn
-DOMAIN-SUFFIX,dreport.meituan.net
 
-#肥羊转换去弹窗
-#DOMAIN-SUFFIX,spmbt.github.io
-#DOMAIN-SUFFIX,hoothin.github.io
+
+
+
+
+
+
+
+
+
+
+
 
 
 
