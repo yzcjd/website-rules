@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,badjs.weixinbridge.com
 #DOMAIN-SUFFIX,hoothin.github.io
 
 #美团
-DOMAIN-SUFFIX,shark.dianping.comv
+DOMAIN-SUFFIX,shark.dianping.com
 #京东
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,blackhole.m.jd.com
@@ -45,7 +45,7 @@ DOMAIN-SUFFIX,blackhole.m.jd.com
 DOMAIN-SUFFIX,hudong.alicdn.com
 #淘宝直播
 DOMAIN-SUFFIX,live-spare.alicdn.com
-#Telegram 荷兰 95.161.76.101 不知道是啥，不是广告，ping不通
+#Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
 #IP-CIDR,95.161.76.0/22,no-resolve
 
 #酷狗
