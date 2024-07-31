@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
 #文章底部卡片（未写）
 #文章底部推荐三篇（未写）
+#不知道是啥
 IP-CIDR,112.60.25.77/22,no-resolve
 #文章评论区头像【已确定】
 DOMAIN-SUFFIX,wx.qlogo.cn
@@ -26,7 +27,7 @@ DOMAIN-SUFFIX,wx.qlogo.cn
 #微信小程序
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,file.neixin.cn
-DOMAIN-SUFFIX,dreport.meituan.net
+#DOMAIN-SUFFIX,dreport.meituan.net
 
 #其它
 DOMAIN-SUFFIX,badjs.weixinbridge.com
@@ -37,7 +38,7 @@ DOMAIN-SUFFIX,badjs.weixinbridge.com
 #DOMAIN-SUFFIX,hoothin.github.io
 
 #美团
-DOMAIN-SUFFIX,shark.dianping.com
+#DOMAIN-SUFFIX,shark.dianping.com
 #京东
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,blackhole.m.jd.com
