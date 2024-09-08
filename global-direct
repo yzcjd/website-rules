@@ -1,26 +1,5 @@
 #需要直连的列表（个人向），仅用于搭配全局规则，持续更新。
 
-#Cloudflare
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,cloudflare.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #测试站#
 
