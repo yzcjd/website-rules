@@ -1,0 +1,6 @@
+#需要直连的列表（个人向），仅用于搭配白名单规则，持续更新。
+#即白名单会走代理的网站，强制走直连。
+
+#Cloudflare
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,cloudflare.com
