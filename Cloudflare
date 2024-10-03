@@ -8,8 +8,8 @@
 # TOTAL: 65
 
 # 删除域名规则
-# 用于搭配 Clash 全局规则 https://github.com/yzcjd/proxy-rules
-# https://raw.githubusercontent.com/yzcjd/proxy-rules/refs/heads/main/clash.global.ini
+# 用于搭配 Clash geoip 规则 https://github.com/yzcjd/proxy-rules
+# https://raw.githubusercontent.com/yzcjd/proxy-rules/refs/heads/main/clash.geoip.ini
 
 IP-CIDR,103.21.244.0/22,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
