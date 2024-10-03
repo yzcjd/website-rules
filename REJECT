@@ -1,64 +1,64 @@
-#去广告规则  作者为TG频道@yzcjd频道主
-#使用方法：Clash 规则内添加以下规则，要在 GEOIP 上面。可以自行添加开关。
-#参考 proxy-rules 项目 tg3 规则写法，我会在里面添加很多实验性内容。
-#ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
+# 去广告规则  作者为TG频道@yzcjd频道主
+# 使用方法：Clash 规则内添加以下规则，要在 GEOIP 上面。可以自行添加开关。
+# 参考 proxy-rules 项目 tg3 规则写法，我会在里面添加很多实验性内容。
+# ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
 
 
-#自用部分（新规则测试中）
+# 自用部分（新规则测试中）
 
-#微信广告
+# 微信广告
 
-#封面图：订阅号信息流、底部文章推荐（不影响正文图片）【已确定】
+# 封面图：订阅号信息流、底部文章推荐（不影响正文图片）【已确定】
 DOMAIN-SUFFIX,mmbiz.qpic.cn
-#文章中末卡片【已确定】
+# 文章中末卡片【已确定】
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
-#文章底部卡片（未写）
-#文章底部推荐三篇（未写）
-#不知道是啥
+# 文章底部卡片（未写）
+# 文章底部推荐三篇（未写）
+# 不知道是啥
 IP-CIDR,112.60.25.77/22,no-resolve
-#文章评论区头像【已确定】
+# 文章评论区头像【已确定】
 DOMAIN-SUFFIX,wx.qlogo.cn
-#文章评论点赞按钮（未写）
-#评论区“写评论”按钮，杜绝瞎屄屄（未写）
-#文章底部固定栏（未写）
+# 文章评论点赞按钮（未写）
+# 评论区“写评论”按钮，杜绝瞎屄屄（未写）
+# 文章底部固定栏（未写）
 
 
-#微信小程序
+# 微信小程序
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,file.neixin.cn
 #DOMAIN-SUFFIX,dreport.meituan.net
 
-#其它
+# 其它
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 
 
-#肥羊转换去弹窗（未写好）
+# 肥羊转换去弹窗（未写好）
 #DOMAIN-SUFFIX,spmbt.github.io
 #DOMAIN-SUFFIX,hoothin.github.io
 
-#美团
+# 美团
 #DOMAIN-SUFFIX,shark.dianping.com
-#京东
+# 京东
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,blackhole.m.jd.com
-#淘宝
+# 淘宝
 DOMAIN-SUFFIX,hudong.alicdn.com
-#淘宝直播
+# 淘宝直播
 DOMAIN-SUFFIX,live-spare.alicdn.com
-#Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
-#IP-CIDR,95.161.76.0/22,no-resolve
+# Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
+# IP-CIDR,95.161.76.0/22,no-resolve
 
-#酷狗
-
-
+# 酷狗
 
 
 
 
 
 
-#偷的规则，先加上试试
+
+
+# 偷的规则，先加上试试
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
@@ -73,11 +73,19 @@ DOMAIN-SUFFIX,as.weixin.qq.com
 
 
 
+# 拒绝 “手机号一键登录” ，避免实名上网
 
-
-
-
-
+DOMAIN-SUFFIX,auth.wosms.cn
+DOMAIN-SUFFIX,config.cmpassport.com
+DOMAIN-SUFFIX,enrichgw.10010.com
+DOMAIN-SUFFIX,hmrz.wo.cn
+DOMAIN-SUFFIX,id.mail.wo.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,log.cmpassport.com
+DOMAIN-SUFFIX,log1.cmpassport.com
+DOMAIN-SUFFIX,mdn.open.wo.cn
+DOMAIN-SUFFIX,nishub1.10010.com
+DOMAIN-SUFFIX,opencloud.wostore.cn
 
 
 
