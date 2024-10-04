@@ -1,2 +1,8 @@
-;Telegram 规则 新加坡服务器
+;Telegram 规则 新加坡服务器，DC5
 IP-CIDR,91.108.56.0/22,no-resolve
+DOMAIN-SUFFIX,flora.web.telegram.org
+DOMAIN-SUFFIX,flora-1.web.telegram.org
+DOMAIN-SUFFIX,kws5.web.telegram.org
+DOMAIN-SUFFIX,kws5-1.web.telegram.org
+DOMAIN-SUFFIX,zws5.web.telegram.org
+DOMAIN-SUFFIX,zws5-1.web.telegram.org
