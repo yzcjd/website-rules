@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,te.legra.ph
 DOMAIN-SUFFIX,legra.ph
 IP-CIDR,149.154.160.0/20,no-resolve
+# 149.154.167.222
+IP-CIDR,149.154.167.0/20,no-resolve
