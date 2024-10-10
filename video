@@ -1,7 +1,6 @@
 # 送中也没关系的视频网站，可以利用闲置的小鸡
 
 
-DOMAIN-SUFFIX,intersystems.com
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
@@ -15,3 +14,6 @@ DOMAIN-SUFFIX,v3.uwxy011.com
 DOMAIN-SUFFIX,v3.5679abb.com
 DOMAIN-SUFFIX,v3.vwx01.com
 DOMAIN-SUFFIX,v8.dious.cc
+
+DOMAIN-SUFFIX,intersystems.com
+DOMAIN-SUFFIX,dailymotion.com
