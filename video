@@ -4,10 +4,10 @@
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-# 低端影视
-DOMAIN-SUFFIX,ddys.mov
-DOMAIN-SUFFIX,ddys.pro
-DOMAIN-SUFFIX,ddys.info
+# 低端影视（搜索不能用送中节点）
+DOMAIN-SUFFIX,v.ddys.mov
+DOMAIN-SUFFIX,v.ddys.pro
+DOMAIN-SUFFIX,v.ddys.info
 # 555电影
 DOMAIN-SUFFIX,vip.ffzy-play5.com
 DOMAIN-SUFFIX,v3.uwxy011.com
