@@ -49,9 +49,8 @@ DOMAIN-SUFFIX,live-spare.alicdn.com
 # Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
 # IP-CIDR,95.161.76.0/22,no-resolve
 
-# 酷狗
-
-
+# v2board
+PROCESS-PATH,/api/v1/user/notice
 
 
 
