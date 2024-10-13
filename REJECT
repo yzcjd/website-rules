@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,live-spare.alicdn.com
 # IP-CIDR,95.161.76.0/22,no-resolve
 
 # v2board
-PROCESS-PATH,/api/v1/user/notice
+# PROCESS-PATH,/api/v1/user/notice
 
 
 
