@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,legra.ph
 IP-CIDR,149.154.160.0/20,no-resolve
 # 149.154.167.222
 IP-CIDR,149.154.167.0/20,no-resolve
+# 95.161.76.101
+IP-CIDR,95.161.76.0/20,no-resolve
