@@ -9,7 +9,7 @@
 # 【【【 微信广告 】】】
 
 # 封面图：订阅号信息流、底部文章推荐（不影响正文图片）
-DOMAIN-SUFFIX,mmbiz.qpic.cn
+# DOMAIN-SUFFIX,mmbiz.qpic.cn
 # 文章中末卡片
 # DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
 # DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
