@@ -48,7 +48,7 @@ IP-CIDR,149.154.167.0/22,no-resolve
 # 活动弹窗
 DOMAIN-SUFFIX,msstatic.com
 #
-DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
+# DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
 
