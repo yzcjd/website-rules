@@ -16,8 +16,6 @@ DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
 DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
 # DOMAIN-SUFFIX
 # 文章底部卡片
-DOMAIN-SUFFIX,szextshort.weixin.qq.com
-DOMAIN-SUFFIX,szminorshort.weixin.qq.com
 # 文章底部推荐三篇
 # 不知道是啥
 IP-CIDR,112.60.25.77/22,no-resolve
