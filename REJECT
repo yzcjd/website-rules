@@ -50,7 +50,8 @@ DOMAIN-SUFFIX,hudong.alicdn.com
 # 淘宝直播
 DOMAIN-SUFFIX,live-spare.alicdn.com
 # Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
-# IP-CIDR,95.161.76.0/22,no-resolve
+# 149.154.167.222
+IP-CIDR,149.154.167.0/22,no-resolve
 
 
 
