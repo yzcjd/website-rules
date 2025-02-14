@@ -53,6 +53,8 @@ DOMAIN-SUFFIX,tipemu.com
 DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
 DOMAIN-SUFFIX,xdmdesigns.org
+#DOMAIN-SUFFIX,store9.gofile.io
+DOMAIN-SUFFIX,gofile.io
 
 # 测试规则
 DOMAIN-KEYWORD,cdn
