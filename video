@@ -58,6 +58,9 @@ DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,player.hgplayer00.com
 DOMAIN-SUFFIX,thts2.top
+DOMAIN-SUFFIX,sagcoreedge.com
+DOMAIN-SUFFIX,orbitcache.com
+DOMAIN-SUFFIX,hiyoko-av.xyz
 
 # 测试规则
 DOMAIN-KEYWORD,cdn
