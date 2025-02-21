@@ -1,5 +1,7 @@
 #需要直连的列表（个人向），仅用于搭配白名单规则，持续更新。
 #即白名单会走代理的网站，强制走直连。
 
+;疑似edge浏览器同步，延迟很高。可直连
+DOMAIN-SUFFIX,pushfp.svc.ms
 
 DOMAIN-KEYWORD,bilivideo
