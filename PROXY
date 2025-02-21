@@ -7,9 +7,9 @@ DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,slll.in
 
 # 小鸡
-IP-CIDR,194.29.187.0/22
+IP-CIDR,194.29.187.0/22,no-resolve
 
-#DNS防泄漏
+#DNS 防泄漏
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 IP-CIDR,120.232.181.162/32,no-resolve
