@@ -62,6 +62,11 @@ DOMAIN-SUFFIX,thts2.top
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 DOMAIN-SUFFIX,hiyoko-av.xyz
+DOMAIN-SUFFIX,player.cl9987.com
+DOMAIN-SUFFIX,player.putaoplayer.com
+
+
+
 
 # 测试规则
 DOMAIN-KEYWORD,cdn
@@ -69,5 +74,8 @@ DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
 DOMAIN-KEYWORD,vip
 DOMAIN-KEYWORD,mp4
+DOMAIN-KEYWORD,player
+DOMAIN-KEYWORD,cache
+DOMAIN-KEYWORD,usercontent
 #DOMAIN-KEYWORD,-av
 #DOMAIN-KEYWORD,ts 扩展名
