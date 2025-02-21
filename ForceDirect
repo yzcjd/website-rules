@@ -17,7 +17,9 @@ IP-CIDR,::/127
 IP-CIDR,fc00::/7
 IP-CIDR,fe80::/10
 IP-CIDR,ff00::/8
-
+##
+IP-CIDR,255.255.255.255/32
+IP-CIDR,239.255.255.250/32
 
 #IP-CIDR,0.0.0.0/8,no-resolve
 #IP-CIDR,10.0.0.0/8,no-resolve
