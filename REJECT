@@ -1,4 +1,4 @@
-# 去广告规则  作者为TG频道@yzcjd频道主
+# 去广告规则  作者为 TG 频道@yzcjd 频道主
 # 使用方法：Clash 规则内添加以下规则，要在 GEOIP 上面。可以自行添加开关。
 # 参考 proxy-rules 项目 tg3 规则写法，我会在里面添加很多实验性内容。
 # ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
@@ -37,7 +37,7 @@
 # DOMAIN-SUFFIX,hudong.alicdn.com
 # 淘宝直播
 # DOMAIN-SUFFIX,live-spare.alicdn.com
-# Telegram 荷兰 95.161.76.101 好像不是广告，ping不通
+# Telegram 荷兰 95.161.76.101 好像不是广告，ping 不通
 # 149.154.167.222
 # IP-CIDR,149.154.167.0/22,no-resolve
 
@@ -78,6 +78,40 @@ DOMAIN-SUFFIX,log1.cmpassport.com
 DOMAIN-SUFFIX,mdn.open.wo.cn
 DOMAIN-SUFFIX,nishub1.10010.com
 DOMAIN-SUFFIX,opencloud.wostore.cn
+
+
+
+# Unbreak 白名单 不应该被广告链接的网站
+# Epicgames
+DOMAIN-SUFFIX,ol.epicgames.com
+# Getui
+DOMAIN-SUFFIX,dizhensubao.getui.com
+# Google
+DOMAIN,dl.google.com
+DOMAIN-SUFFIX,googletraveladservices.com
+# Mozilla
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+# Origin
+DOMAIN,origin-a.akamaihd.net
+# Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+# Strava
+# Umeng
+DOMAIN,errlog.umeng.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# Miui 小米
+DOMAIN,tracking.miui.com
+# General
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
 
 
 
