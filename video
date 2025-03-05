@@ -69,8 +69,8 @@ DOMAIN-SUFFIX,player.putaoplayer.com
 
 
 
-# 测试规则
-DOMAIN-KEYWORD,cdn
+# 测试关键词规则
+#DOMAIN-KEYWORD,cdn
 DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
 DOMAIN-KEYWORD,vip
