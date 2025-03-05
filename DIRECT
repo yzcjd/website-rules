@@ -5,7 +5,8 @@
 DOMAIN-SUFFIX,pushfp.svc.ms
 
 
-
+# 测试关键词规则
+DOMAIN-KEYWORD,cdn
 
 
 
