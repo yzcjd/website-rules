@@ -70,7 +70,7 @@ DOMAIN-SUFFIX,player.putaoplayer.com
 
 
 # 测试关键词规则
-#DOMAIN-KEYWORD,cdn  这个走直连了
+#DOMAIN-KEYWORD,cdn  这个走直连也不对，不加了
 #DOMAIN-KEYWORD,-av
 #DOMAIN-KEYWORD,ts 扩展名 
 DOMAIN-KEYWORD,play
