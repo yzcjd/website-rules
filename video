@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
 ;github 下载服务
 DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,i.imgur.com
 
 
 # 【下载站】
@@ -84,10 +85,8 @@ DOMAIN-KEYWORD,play
 DOMAIN-KEYWORD,player
 DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
-
 DOMAIN-KEYWORD,porn
-
-
+# 有点抽象的关键词
 DOMAIN-KEYWORD,1440p
 DOMAIN-KEYWORD,1080p
 DOMAIN-KEYWORD,720p
