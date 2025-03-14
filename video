@@ -5,6 +5,7 @@
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
 # 低端影视（搜索不能用送中节点）
 # 官网发布页 ddys.info
 DOMAIN-SUFFIX,v.ddys.mov
