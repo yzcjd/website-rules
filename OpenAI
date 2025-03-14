@@ -48,9 +48,11 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 
 # groq
 DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,api-iam.intercom.io
 DOMAIN-SUFFIX,api.stytch.com
-# DOMAIN-SUFFIX,chat.groq.com
 DOMAIN-SUFFIX,forms.hsforms.com
+# DOMAIN-SUFFIX,api-iam.intercom.io   已有
+# DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
+# DOMAIN-SUFFIX,widget.intercom.io
+# DOMAIN-SUFFIX,chat.groq.com
 # DOMAIN-SUFFIX,log.cookieyes.com
 # DOMAIN-SUFFIX,cdn-cookieyes.com
