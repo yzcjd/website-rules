@@ -45,3 +45,12 @@ DOMAIN-SUFFIX,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,podscribe.com
 DOMAIN-SUFFIX,fscdn.eppo.cloud
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+
+# groq
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,api-iam.intercom.io
+DOMAIN-SUFFIX,api.stytch.com
+# DOMAIN-SUFFIX,chat.groq.com
+DOMAIN-SUFFIX,forms.hsforms.com
+# DOMAIN-SUFFIX,log.cookieyes.com
+# DOMAIN-SUFFIX,cdn-cookieyes.com
