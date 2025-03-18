@@ -3,7 +3,6 @@
 
 ;应该是 edge 浏览器同步服务，延迟很高。可直连
 DOMAIN-SUFFIX,pushfp.svc.ms
-DOMAIN-SUFFIX,nnr.moe
 
 
 
