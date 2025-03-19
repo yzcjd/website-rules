@@ -4,6 +4,14 @@
 ;应该是 edge 浏览器同步服务，延迟很高。可直连
 DOMAIN-SUFFIX,pushfp.svc.ms
 
+# 低端影视（搜索不能用送中节点）可以了
+# 官网发布页 ddys.info
+DOMAIN-SUFFIX,ddys.info
+# DOMAIN-SUFFIX,v.ddys.mov  可直连
+# DOMAIN-SUFFIX,v.ddys.pro  可直连
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
+
 
 
 
