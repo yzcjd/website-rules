@@ -50,24 +50,24 @@ DOMAIN-SUFFIX,update.ayugram.one
 # goodav17 / ggjav
 DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,cloudatacdn.com
-DOMAIN-SUFFIX,porn87.com
-DOMAIN-SUFFIX,b-cdn.net
-DOMAIN-SUFFIX,cloud.avking.xyz
+# DOMAIN-SUFFIX,porn87.com
+# DOMAIN-SUFFIX,b-cdn.net
+# DOMAIN-SUFFIX,cloud.avking.xyz
 DOMAIN-SUFFIX,vieznem.com
 DOMAIN-SUFFIX,tipemu.com
 DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
 DOMAIN-SUFFIX,xdmdesigns.org
-#DOMAIN-SUFFIX,store9.gofile.io
-DOMAIN-SUFFIX,gofile.io
+# DOMAIN-SUFFIX,store9.gofile.io
+# DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,anyhentai.com
-DOMAIN-SUFFIX,player.hgplayer00.com
-DOMAIN-SUFFIX,thts2.top
+# DOMAIN-SUFFIX,player.hgplayer00.com
+# DOMAIN-SUFFIX,thts2.top
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
-DOMAIN-SUFFIX,hiyoko-av.xyz
-DOMAIN-SUFFIX,player.cl9987.com
-DOMAIN-SUFFIX,player.putaoplayer.com
+# DOMAIN-SUFFIX,hiyoko-av.xyz
+# DOMAIN-SUFFIX,player.cl9987.com
+# DOMAIN-SUFFIX,player.putaoplayer.com
 
 
 
@@ -96,9 +96,9 @@ DOMAIN-KEYWORD,720p
 # DOMAIN-KEYWORD,v1  常用命名，不要了
 # DOMAIN-KEYWORD,v2  v2ray 简称 v2 真鲨比
 DOMAIN-KEYWORD,v3
-# DOMAIN-KEYWORD,v4  ipv4误触发规则
+# DOMAIN-KEYWORD,v4  ipv4 误触发规则
 DOMAIN-KEYWORD,v5
-# DOMAIN-KEYWORD,v6  ipv6误触发规则
+# DOMAIN-KEYWORD,v6  ipv6 误触发规则
 DOMAIN-KEYWORD,v7
 DOMAIN-KEYWORD,v8
 DOMAIN-KEYWORD,v9
