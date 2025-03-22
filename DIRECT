@@ -7,13 +7,14 @@ DOMAIN-SUFFIX,pushfp.svc.ms
 # 低端影视（搜索不能用送中节点）可以了
 # 官网发布页 ddys.info
 DOMAIN-SUFFIX,ddys.info
-# DOMAIN-SUFFIX,v.ddys.mov  可直连
-# DOMAIN-SUFFIX,v.ddys.pro  可直连
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.mov
 # CF R2
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
+# 555
+DOMAIN-SUFFIX,nwbj9qnhpcxa.com
+
 
 
 # 【下载站】
