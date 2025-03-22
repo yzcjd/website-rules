@@ -6,10 +6,7 @@
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
-# 低端影视（搜索不能用送中节点）
-# 官网发布页 ddys.info
-# DOMAIN-SUFFIX,v.ddys.mov  可直连
-# DOMAIN-SUFFIX,v.ddys.pro  可直连
+
 # 555 电影
 DOMAIN-SUFFIX,vip.ffzy-play5.com
 DOMAIN-SUFFIX,uwxy011.com
@@ -21,10 +18,6 @@ DOMAIN-SUFFIX,lmnoprs.com
 DOMAIN-SUFFIX,ffzyread1.com
 DOMAIN-SUFFIX,ryplay11.com
 DOMAIN-SUFFIX,xxya88.com
-
-# CF R2
-DOMAIN-SUFFIX,cloudflarestorage.com
-
 
 
 #【不分类】
@@ -50,24 +43,14 @@ DOMAIN-SUFFIX,update.ayugram.one
 # goodav17 / ggjav
 DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,cloudatacdn.com
-# DOMAIN-SUFFIX,porn87.com
-# DOMAIN-SUFFIX,b-cdn.net
-# DOMAIN-SUFFIX,cloud.avking.xyz
 DOMAIN-SUFFIX,vieznem.com
 DOMAIN-SUFFIX,tipemu.com
 DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
 DOMAIN-SUFFIX,xdmdesigns.org
-# DOMAIN-SUFFIX,store9.gofile.io
-# DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,anyhentai.com
-# DOMAIN-SUFFIX,player.hgplayer00.com
-# DOMAIN-SUFFIX,thts2.top
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
-# DOMAIN-SUFFIX,hiyoko-av.xyz
-# DOMAIN-SUFFIX,player.cl9987.com
-# DOMAIN-SUFFIX,player.putaoplayer.com
 
 
 
@@ -75,14 +58,13 @@ DOMAIN-SUFFIX,orbitcache.com
 #DOMAIN-KEYWORD,cdn  这个走直连也不对，不加了
 #DOMAIN-KEYWORD,-av
 #DOMAIN-KEYWORD,ts 扩展名 
-DOMAIN-KEYWORD,play
 DOMAIN-KEYWORD,media
 DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
 DOMAIN-KEYWORD,vip
 DOMAIN-KEYWORD,vod
 DOMAIN-KEYWORD,mp4
-DOMAIN-KEYWORD,play
+# DOMAIN-KEYWORD,play
 DOMAIN-KEYWORD,player
 DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
@@ -90,9 +72,11 @@ DOMAIN-KEYWORD,porn
 
 
 # 有点抽象的关键词
+DOMAIN-KEYWORD,tvtv
 DOMAIN-KEYWORD,1440p
 DOMAIN-KEYWORD,1080p
 DOMAIN-KEYWORD,720p
+DOMAIN-KEYWORD,480p
 # DOMAIN-KEYWORD,v1  常用命名，不要了
 # DOMAIN-KEYWORD,v2  v2ray 简称 v2 真鲨比
 DOMAIN-KEYWORD,v3
