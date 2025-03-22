@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 
 # 555 电影
+# 旧，可能无效
 DOMAIN-SUFFIX,vip.ffzy-play5.com
 DOMAIN-SUFFIX,uwxy011.com
 DOMAIN-SUFFIX,5679abb.com
@@ -19,6 +20,18 @@ DOMAIN-SUFFIX,ffzyread1.com
 DOMAIN-SUFFIX,ryplay11.com
 DOMAIN-SUFFIX,xxya88.com
 DOMAIN-SUFFIX,rrcdnbf4.com
+
+
+DOMAIN-SUFFIX,vip.ffzy-play10.com
+DOMAIN-SUFFIX,vip.ffzy-play11.com
+DOMAIN-SUFFIX,vip.ffzy-play12.com
+DOMAIN-SUFFIX,vip.ffzy-play13.com
+DOMAIN-SUFFIX,vip.ffzy-play14.com
+DOMAIN-SUFFIX,vip.ffzy-play15.com
+DOMAIN-SUFFIX,v3.dious.cc
+下两个为同一个
+DOMAIN-SUFFIX,v3.ivipcdn.com
+DOMAIN-SUFFIX,cdn8.ryplay8.com
 
 
 #【不分类】
