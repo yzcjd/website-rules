@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,te.legra.ph
 DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,kws2.web.telegram.org
+DOMAIN-SUFFIX,kws2-1.web.telegram.org
+DOMAIN-SUFFIX,zws2.web.telegram.org
+DOMAIN-SUFFIX,zws2-1.web.telegram.org
 IP-CIDR,149.154.160.0/20,no-resolve
 # 149.154.167.222
 IP-CIDR,149.154.167.0/20,no-resolve
