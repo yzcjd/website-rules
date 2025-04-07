@@ -7,4 +7,3 @@ DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,slll.in
 
 # 小鸡
-IP-CIDR,194.29.187.0/22,no-resolve
