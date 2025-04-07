@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,v1.mk
 # 风车
 DOMAIN-SUFFIX,slll.in
 
-# 小鸡
+# 因为屏蔽广告关键词 "ads" 误杀
+DOMAIN-SUFFIX,www.threads.net
