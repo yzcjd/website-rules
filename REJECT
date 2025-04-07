@@ -1,4 +1,4 @@
-# 去广告规则  作者为 TG 频道@yzcjd 频道主
+# 去广告规则，屏蔽浏览器以外所有东西的广告。  作者为TG频道@yzcjd频道主
 # 使用方法：Clash 规则内添加以下规则，要在 GEOIP 上面。可以自行添加开关。
 # 参考 proxy-rules 项目 tg3 规则写法，我会在里面添加很多实验性内容。
 # ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
@@ -7,9 +7,6 @@
 # 自用部分（新规则测试中）
 # YouTube 去广告
 DOMAIN-KEYWORD,ads
-# DOMAIN-KEYWORD,---sn-ogu
-# DOMAIN-KEYWORD,---sn-a5m
-
 
 
 
@@ -19,16 +16,13 @@ DOMAIN-KEYWORD,ads
 # 封面图：订阅号信息流、底部文章推荐（不影响正文图片）
 # DOMAIN-SUFFIX,mmbiz.qpic.cn
 # 文章中末卡片
-# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
-# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
-# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
-# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
+DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
+DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
 # 文章底部卡片
 # 文章底部推荐三篇
-# 不知道是啥
-# IP-CIDR,112.60.25.77/22,no-resolve
 # 文章评论区头像
-# DOMAIN-SUFFIX,wx.qlogo.cn
+DOMAIN-SUFFIX,wx.qlogo.cn
 
 # 微信小程序
 # DOMAIN-SUFFIX,ulogs.umeng.com
@@ -42,24 +36,20 @@ DOMAIN-KEYWORD,ads
 # DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 # DOMAIN-SUFFIX,blackhole.m.jd.com
 # 淘宝
-# DOMAIN-SUFFIX,hudong.alicdn.com
+DOMAIN-SUFFIX,hudong.alicdn.com
 # 淘宝直播
-# DOMAIN-SUFFIX,live-spare.alicdn.com
-# Telegram 荷兰 95.161.76.101 好像不是广告，ping 不通
-# 149.154.167.222
-# IP-CIDR,149.154.167.0/22,no-resolve
+DOMAIN-SUFFIX,live-spare.alicdn.com
 
 
 # Wegame
 # 活动弹窗
-# DOMAIN-SUFFIX,msstatic.com
-#
-# DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
 
 # 偷的微信规则，先加上试试
-# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
-# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-# DOMAIN-SUFFIX,ad.weixin.qq.com
-# DOMAIN-SUFFIX,as.weixin.qq.com
+DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+DOMAIN-SUFFIX,ad.weixin.qq.com
+DOMAIN-SUFFIX,as.weixin.qq.com
