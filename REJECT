@@ -6,10 +6,10 @@
 
 # 自用部分（新规则测试中）
 # YouTube 去广告
-DOMAIN-KEYWORD,ads
-DOMAIN-KEYWORD,ad2
-DOMAIN-KEYWORD,pagead
-DOMAIN-SUFFIX,ade.googlesyndication.com
+# DOMAIN-KEYWORD,ads
+# DOMAIN-KEYWORD,ad2
+# DOMAIN-KEYWORD,pagead
+# DOMAIN-SUFFIX,ade.googlesyndication.com
 
 
 
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
 # 文章底部卡片
 # 文章底部推荐三篇
 # 文章评论区头像
-DOMAIN-SUFFIX,wx.qlogo.cn
+# DOMAIN-SUFFIX,wx.qlogo.cn
 
 # 微信小程序
 # DOMAIN-SUFFIX,ulogs.umeng.com
@@ -39,15 +39,15 @@ DOMAIN-SUFFIX,wx.qlogo.cn
 # DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 # DOMAIN-SUFFIX,blackhole.m.jd.com
 # 淘宝
-DOMAIN-SUFFIX,hudong.alicdn.com
+# DOMAIN-SUFFIX,hudong.alicdn.com
 # 淘宝直播
-DOMAIN-SUFFIX,live-spare.alicdn.com
+# DOMAIN-SUFFIX,live-spare.alicdn.com
 
 
 # Wegame
 # 活动弹窗
-DOMAIN-SUFFIX,msstatic.com
-DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
+# DOMAIN-SUFFIX,msstatic.com
+# DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
 
