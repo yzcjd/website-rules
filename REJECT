@@ -19,9 +19,9 @@
 # 封面图：订阅号信息流、底部文章推荐（不影响正文图片）
 # DOMAIN-SUFFIX,mmbiz.qpic.cn
 # 文章中末卡片
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
+# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
+# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
+# DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
 # 文章底部卡片
 # 文章底部推荐三篇
 # 文章评论区头像
@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
 
 
 # 偷的微信规则，先加上试试
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-DOMAIN-SUFFIX,ad.weixin.qq.com
-DOMAIN-SUFFIX,as.weixin.qq.com
+# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+# DOMAIN-SUFFIX,ad.weixin.qq.com
+# DOMAIN-SUFFIX,as.weixin.qq.com
