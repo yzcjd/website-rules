@@ -34,18 +34,18 @@ DOMAIN-SUFFIX,ryplay11.com
 DOMAIN-SUFFIX,xxya88.com
 DOMAIN-SUFFIX,rrcdnbf4.com
 # ——————
-OMAIN-SUFFIX,vip.ffzy-play10.com
+DOMAIN-SUFFIX,vip.ffzy-play10.com
 # 只发现了 5 和 10，预判下命名
-DOMAIN-SUFFIX,vip.ffzy-play11.com
-DOMAIN-SUFFIX,vip.ffzy-play12.com
-DOMAIN-SUFFIX,vip.ffzy-play13.com
-DOMAIN-SUFFIX,vip.ffzy-play14.com
+# DOMAIN-SUFFIX,vip.ffzy-play11.com
+# DOMAIN-SUFFIX,vip.ffzy-play12.com
+# DOMAIN-SUFFIX,vip.ffzy-play13.com
+# DOMAIN-SUFFIX,vip.ffzy-play14.com
 DOMAIN-SUFFIX,vip.ffzy-play15.com
 DOMAIN-SUFFIX,vip.ffzy-play20.com
 DOMAIN-SUFFIX,vip.ffzy-play25.com
 # DOMAIN-SUFFIX,nwbj9qnhpcxa.com  好像能直连，先试试
 DOMAIN-SUFFIX,v3.dious.cc
-下两个为同一个
+# 这两个域名相同（cname）
 DOMAIN-SUFFIX,v3.ivipcdn.com
 DOMAIN-SUFFIX,cdn8.ryplay8.com
 
@@ -59,10 +59,16 @@ DOMAIN-SUFFIX,brnowy.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
-;github 下载服务
+# github 下载服务
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,i.imgur.com
 DOMAIN-SUFFIX,ffzy-play2.com
+DOMAIN-SUFFIX,livecloud.akamaized.net
+DOMAIN-SUFFIX,xascdn.li
+DOMAIN-SUFFIX,9abbde.com
+# DOMAIN-SUFFIX,
+# DOMAIN-SUFFIX,
+
 
 
 # 【下载站】
@@ -92,14 +98,16 @@ DOMAIN-SUFFIX,orbitcache.com
 DOMAIN-KEYWORD,media
 DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
-DOMAIN-KEYWORD,vip
 DOMAIN-KEYWORD,vod
+DOMAIN-KEYWORD,vip
+DOMAIN-KEYWORD,svip
 DOMAIN-KEYWORD,mp4
 # DOMAIN-KEYWORD,play
 DOMAIN-KEYWORD,player
 DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,playback
 
 
 # 有点抽象的关键词
