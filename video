@@ -108,6 +108,9 @@ DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
+# 特殊
+DOMAIN-KEYWORD,naver
+DOMAIN-KEYWORD,navercdn
 
 
 # 有点抽象的关键词
