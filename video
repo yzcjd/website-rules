@@ -66,7 +66,8 @@ DOMAIN-SUFFIX,ffzy-play2.com
 DOMAIN-SUFFIX,livecloud.akamaized.net
 DOMAIN-SUFFIX,xascdn.li
 DOMAIN-SUFFIX,9abbde.com
-# DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,navercdn.com
 # DOMAIN-SUFFIX,
 
 
@@ -109,8 +110,7 @@ DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
 # 特殊
-DOMAIN-KEYWORD,naver
-DOMAIN-KEYWORD,navercdn
+
 
 
 # 有点抽象的关键词
