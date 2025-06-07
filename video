@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
 # CFT
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,twitchcdn.net
 # 555 电影
 # 旧，可能无效
 DOMAIN-SUFFIX,vip.ffzy-play5.com
@@ -94,6 +95,12 @@ DOMAIN-SUFFIX,orbitcache.com
 
 
 
+
+
+
+
+
+
 # 测试关键词规则
 #DOMAIN-KEYWORD,cdn  这个走直连也不对，不加了
 #DOMAIN-KEYWORD,-av
@@ -112,7 +119,6 @@ DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
-# 特殊
 
 
 
@@ -128,9 +134,9 @@ DOMAIN-KEYWORD,cdn3
 # DOMAIN-KEYWORD,v1  常用命名，不要了
 # DOMAIN-KEYWORD,v2  v2ray 简称 v2 真鲨比
 DOMAIN-KEYWORD,v3
-# DOMAIN-KEYWORD,v4  ipv4 误触发规则
+# DOMAIN-KEYWORD,v4  ipv4 误伤
 DOMAIN-KEYWORD,v5
-# DOMAIN-KEYWORD,v6  ipv6 误触发规则
+# DOMAIN-KEYWORD,v6  ipv6 误伤
 DOMAIN-KEYWORD,v7
 DOMAIN-KEYWORD,v8
 DOMAIN-KEYWORD,v9
