@@ -21,7 +21,10 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
 # CFT
 DOMAIN-SUFFIX,cloudfront.net
+# twitch
 DOMAIN-SUFFIX,twitchcdn.net
+# 76553a7dc934.j.cloudfront.hls.ttvnw.net
+DOMAIN-SUFFIX,ttvnw.net
 # 555 电影
 # 旧，可能无效
 DOMAIN-SUFFIX,vip.ffzy-play5.com
