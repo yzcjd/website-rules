@@ -6,8 +6,7 @@
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
-# 低端影视（搜索不能用送中节点）可以了
-# 官网发布页 ddys.info   CF 速度不稳定，还是走代理
+# 低端影视 ddys.info
 DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.mov
@@ -20,6 +19,8 @@ DOMAIN-SUFFIX,update.ayugram.one
 # CF R2
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
+# CFT
+DOMAIN-SUFFIX,cloudfront.net
 # 555 电影
 # 旧，可能无效
 DOMAIN-SUFFIX,vip.ffzy-play5.com
