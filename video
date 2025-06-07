@@ -1,7 +1,20 @@
 # 送中也没关系的视频网站，可以利用半废的小鸡
 # 香港访问 OK，其它地区访问延迟低的不放进来。
 
-# 【常用】
+# 【可复用】————————————————————————
+
+# 下载站
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,update.ayugram.one
+
+# CF R2
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,gofile.io
+# CFT
+DOMAIN-SUFFIX,cloudfront.net
+
+# 【特定网站】———————————————————————
+
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
@@ -11,20 +24,14 @@ DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.mov
 
+# github 下载服务
+DOMAIN-SUFFIX,objects.githubusercontent.com
 
-# 【下载站】
-DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,update.ayugram.one
-
-# CF R2
-DOMAIN-SUFFIX,cloudflarestorage.com
-DOMAIN-SUFFIX,gofile.io
-# CFT
-DOMAIN-SUFFIX,cloudfront.net
 # twitch
 DOMAIN-SUFFIX,twitchcdn.net
 # 76553a7dc934.j.cloudfront.hls.ttvnw.net
 DOMAIN-SUFFIX,ttvnw.net
+
 # 555 电影
 # 旧，可能无效
 DOMAIN-SUFFIX,vip.ffzy-play5.com
@@ -53,19 +60,6 @@ DOMAIN-SUFFIX,v3.dious.cc
 # 这两个域名相同（cname）
 DOMAIN-SUFFIX,v3.ivipcdn.com
 DOMAIN-SUFFIX,cdn8.ryplay8.com
-
-
-#【不分类】
-DOMAIN-SUFFIX,intersystems.com
-DOMAIN-SUFFIX,dailymotion.com
-DOMAIN-SUFFIX,bfllvip.com
-DOMAIN-SUFFIX,tubetubetube.com
-DOMAIN-SUFFIX,brnowy.com
-DOMAIN-SUFFIX,pvvstream.pro
-DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,fellatiojapan.com
-# github 下载服务
-DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,i.imgur.com
 DOMAIN-SUFFIX,ffzy-play2.com
 DOMAIN-SUFFIX,livecloud.akamaized.net
@@ -74,16 +68,6 @@ DOMAIN-SUFFIX,9abbde.com
 # naver
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,navercdn.com
-# DOMAIN-SUFFIX,
-
-
-
-# 【下载站】
-DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,update.ayugram.one
-
-
-#【偶尔】
 # goodav17 / ggjav
 DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,cloudatacdn.com
@@ -96,16 +80,19 @@ DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 
+#【不分类】
+DOMAIN-SUFFIX,intersystems.com
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,bfllvip.com
+DOMAIN-SUFFIX,tubetubetube.com
+DOMAIN-SUFFIX,brnowy.com
+DOMAIN-SUFFIX,pvvstream.pro
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,fellatiojapan.com
 
+# 【关键词规则】——————————————————————
 
-
-
-
-
-
-
-# 测试关键词规则
-#DOMAIN-KEYWORD,cdn  这个走直连也不对，不加了
+#DOMAIN-KEYWORD,cdn  这个走直连也不对，排除
 #DOMAIN-KEYWORD,-av
 #DOMAIN-KEYWORD,ts 扩展名 
 DOMAIN-KEYWORD,media
@@ -123,9 +110,7 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
 
-
-
-# 有点抽象的关键词
+# 【有点抽象的关键词】————————————————————
 DOMAIN-KEYWORD,tvtv
 DOMAIN-KEYWORD,1440p
 DOMAIN-KEYWORD,1080p
@@ -134,8 +119,8 @@ DOMAIN-KEYWORD,480p
 DOMAIN-KEYWORD,cdn1
 DOMAIN-KEYWORD,cdn2
 DOMAIN-KEYWORD,cdn3
-# DOMAIN-KEYWORD,v1  常用命名，不要了
-# DOMAIN-KEYWORD,v2  v2ray 简称 v2 真鲨比
+# DOMAIN-KEYWORD,v1  常用命名，排除
+# DOMAIN-KEYWORD,v2  v2ray 误伤
 DOMAIN-KEYWORD,v3
 # DOMAIN-KEYWORD,v4  ipv4 误伤
 DOMAIN-KEYWORD,v5
