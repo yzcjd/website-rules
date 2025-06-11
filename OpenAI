@@ -1,3 +1,4 @@
+# 常见规则
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,gemini.google.com
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,challenges.cloudflare.com
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
@@ -42,11 +44,11 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,podscribe.com
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 # DOMAIN-SUFFIX,ipv4.podscribe.com
-DOMAIN-SUFFIX,podscribe.com
+# DOMAIN-SUFFIX,podscribe.com （重复）
 DOMAIN-SUFFIX,fscdn.eppo.cloud
-DOMAIN-SUFFIX,browser-intake-datadoghq.com
+# DOMAIN-SUFFIX,browser-intake-datadoghq.com （重复）
 
-# groq
+# groq  原创，手动添加的
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,api.stytch.com
 DOMAIN-SUFFIX,forms.hsforms.com
@@ -56,3 +58,23 @@ DOMAIN-SUFFIX,forms.hsforms.com
 # DOMAIN-SUFFIX,chat.groq.com
 # DOMAIN-SUFFIX,log.cookieyes.com
 # DOMAIN-SUFFIX,cdn-cookieyes.com
+
+# claude
+DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# google ai
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+# DOMAIN-SUFFIX,gemini.google.com （重复）
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
