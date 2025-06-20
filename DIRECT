@@ -11,6 +11,10 @@ DOMAIN-SUFFIX,update.ayugram.one
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
 
+#挂机
+DOMAIN-KEYWORD,honeygain
+DOMAIN-KEYWORD,earnapp
+DOMAIN-KEYWORD,packetstream
 
 
 
