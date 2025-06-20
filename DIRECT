@@ -4,17 +4,13 @@
 ;应该是 edge 浏览器同步服务，延迟很高。可直连
 DOMAIN-SUFFIX,pushfp.svc.ms
 
-# 【下载站】
-DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,update.ayugram.one
-
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
 
-#挂机
-DOMAIN-KEYWORD,honeygain
-DOMAIN-KEYWORD,earnapp
-DOMAIN-KEYWORD,packetstream
+# 挂机（走美国）
+# DOMAIN-KEYWORD,honeygain
+# DOMAIN-KEYWORD,earnapp
+# DOMAIN-KEYWORD,packetstream
 
 
 
