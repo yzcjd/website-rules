@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,pushfp.svc.ms
 DOMAIN-SUFFIX,clashchamps.com
 
 # 挂机（走美国）
-# DOMAIN-KEYWORD,honeygain
+DOMAIN-KEYWORD,honeygain
 # DOMAIN-KEYWORD,earnapp
 # DOMAIN-KEYWORD,packetstream
 
