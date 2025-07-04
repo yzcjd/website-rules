@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,slll.in
 
 # 因为屏蔽广告关键词 "ads" 误杀
-DOMAIN-KEYWORD,threads
+# DOMAIN-KEYWORD,threads
 # DOMAIN-SUFFIX,threads.net
 # DOMAIN-SUFFIX,threads.com
+
+# 其他
+DOMAIN-SUFFIX,yxgl-picc.cn
