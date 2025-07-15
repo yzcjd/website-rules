@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,cloudfront.net
 # steam
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,steamstatic
 
