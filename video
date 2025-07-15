@@ -13,12 +13,12 @@ DOMAIN-SUFFIX,gofile.io
 # CFT
 DOMAIN-SUFFIX,cloudfront.net
 # steam
-# DOMAIN-SUFFIX,steamstatic.com
-# DOMAIN-SUFFIX,steampowered.com
-# DOMAIN-SUFFIX,steamcontent.com
-# DOMAIN-SUFFIX,steamserver.net
-# DOMAIN-KEYWORD,steam
-# DOMAIN-KEYWORD,steamstatic
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,steamstatic
 
 # 【特定网站】———————————————————————
 
