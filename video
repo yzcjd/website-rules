@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
 # CFT
 DOMAIN-SUFFIX,cloudfront.net
+# steam
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,steamstatic
 
 # 【特定网站】———————————————————————
 
