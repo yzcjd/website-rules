@@ -1,0 +1,382 @@
+# Steam: Auth | https & wss Protokoll
+# 103.10.124.124
+# 103.28.54.178
+# 162.254.196.67
+# 103.28.54.165
+# 155.133.252.39
+# 185.25.182.76
+# 205.185.194.197
+# 205.196.6.75
+# 153.254.86.163
+# 103.10.124.163
+# 155.133.249.196
+# 155.133.248.37
+# 162.254.193.74
+# 162.254.195.67
+# 155.133.248.39
+# 155.133.248.35
+# 155.133.248.34
+# 155.133.248.36
+# 155.133.250.139
+# 155.133.248.38
+# 155.133.250.140
+# 155.133.250.146
+# 146.66.152.11
+# 146.66.155.101
+# 162.254.192.100
+# 162.254.197.42
+# 155.133.248.53
+# 162.254.197.181
+# 162.254.197.180
+# 155.133.248.50
+#0.0.0.0 ext1-fra1.steamserver.net
+#0.0.0.0 ext1-fra2.steamserver.net
+#0.0.0.0 ext1-hkg1.steamserver.net
+#0.0.0.0 ext1-lhr1.steamserver.net
+#0.0.0.0 ext1-sgp1.steamserver.net
+#0.0.0.0 ext1-sto1.steamserver.net
+#0.0.0.0 ext1-sto2.steamserver.net
+#0.0.0.0 ext2-fra1.steamserver.net
+#0.0.0.0 ext2-fra2.steamserver.net
+#0.0.0.0 ext2-sto1.steamserver.net
+#0.0.0.0 ext2-sto2.steamserver.net
+#0.0.0.0 ext3-sgp1.steamserver.net
+#0.0.0.0 ext4-hkg1.steamserver.net
+#0.0.0.0 ext4-sgp1.steamserver.net
+
+# Steam: API
+# 23.53.54.51
+# 2.16.212.48
+# 96.16.130.74
+# 23.78.88.233
+# 104.73.230.192
+# 184.86.38.254
+# 172.227.184.238
+# 104.90.132.221
+# 104.108.177.8
+# 2.23.53.12
+# Block nicht empfohlen, aber möglich.
+# Metriken unter /IClientMetricsService/ReportClientError/v1
+#0.0.0.0 api.steampowered.com # Globale Erfolge, Anmeldetoken, DRM, Metriken, Kommentare im Forum und Profil, Aktivitäten
+
+# Steam: Broadcasting
+# 23.53.41.248
+# 208.64.200.16
+# 2.19.198.137
+# 2.19.198.122
+#0.0.0.0 steambroadcast.akamaized.net
+#0.0.0.0 video.steamstatic.com
+#0.0.0.0 steamvideo-a.akamaihd.net
+
+# Steam: Bootstrapper - Beispiele einiger Endpunkte
+#0.0.0.0 162-254-198-18.valve.net
+#0.0.0.0 162-254-198-44.valve.net
+#0.0.0.0 162-254-198-104.valve.net
+#0.0.0.0 162-254-198-130.valve.net
+#0.0.0.0 162-254-198-131.valve.net
+
+# Steam: CDN | Content Delivery Network
+# Block nicht empfohlen da Kettenreaktion, aber möglich. Wirkt sich auf zahlreiche Drittanbiterseiten aus, die allesamt auf Steam verlinken
+# 2.16.106.88
+# 2.21.228.105
+# 190.98.152.34
+# 2.21.228.17
+# 80.239.200.19
+# 23.55.110.140
+# 23.55.110.155
+#0.0.0.0 steamcdn-a.akamaihd.net # Grafiken Erfolge, Produktgrafiken, Headerbilder, Vorschaubilder usw.
+#0.0.0.0 scdn.akamai.steamstatic.com # Clientdownload
+# 20.150.78.68
+# 142.250.185.144
+#0.0.0.0 steamcdnstoragequincy.blob.core.windows.net
+#0.0.0.0 steamugcquincy.blob.core.windows.net
+#0.0.0.0 steamcdn-uswest.storage.googleapis.com
+# 34.102.245.185
+0.0.0.0 google.cdn.steampipe.steamcontent.com
+# 205.185.216.10
+0.0.0.0 f3b7q2p3.ssl.hwcdn.net
+0.0.0.0 steamcdn-uswest.storage.googleapis.com
+0.0.0.0 steam-cdn-storage.iam.gserviceaccount.com
+
+# Steam: Chat
+#0.0.0.0 bc1-tuk1.chat.steamcontent.com
+# 23.14.242.145
+# 172.227.166.174
+# 104.108.78.51
+# 2.17.182.211
+# 23.78.65.15
+# 104.108.9.73
+# 23.197.5.200
+# 72.247.156.152
+# 95.100.136.40
+# 92.123.7.146
+# 104.89.16.74
+# 95.100.61.44
+# 23.32.113.192
+# 23.13.253.87
+# 23.65.192.118
+# 104.89.7.250
+# 104.74.120.234
+# 104.82.95.31
+# 23.62.113.19
+#0.0.0.0 steam-chat.com # Javascript WebUI, JSON, Miniprofile
+
+# Steam: Client Update Service
+# 2.21.228.80
+# 155.133.250.108
+# 104.123.68.4
+# 72.247.154.163
+# 155.133.250.76
+# 162.254.192.34
+# 190.98.152.8
+#0.0.0.0 media4.steampowered.com
+#0.0.0.0 client-download.steampowered.com
+
+# Steam: Clientkonfiguration
+# 80.239.200.27
+# 2.21.228.120
+# 2.21.228.73
+# 190.98.152.18
+# 2.22.61.75
+# Beinhalten Daten/Id's zu Spieltitel und Dlcs, Produktgrafiken, Sprache, Publisher, Seitenkategorien, Schlagworte sowie ManifestId's für Downloads
+#0.0.0.0 clientconfig.akamai.steamstatic.com # Ablage für *.tar.gz
+
+# Steam: Cloud für Speicherstände & Client
+# Spielerdaten landen bei Microsoft Corporation, Amazon.com, Inc, Alphabet, Inc. Oracle Corporation
+# De/aktivieren nach Bedarf
+#0.0.0.0 cloud-3.steamusercontent.com
+#0.0.0.0 steamcloud-eu.storage.googleapis.com
+# 172.217.167.176
+# 20.150.43.97
+# 20.150.78.68
+# 216.58.209.176
+# 173.194.221.128
+# 142.250.185.80
+# 108.177.119.128
+# 142.250.74.208
+# 20.238.118.132
+# 216.58.201.80
+# 64.233.163.128
+# 172.217.23.80
+# 20.38.118.132
+# 172.217.22.16
+# 52.239.140.10
+# 216.58.205.240
+# 52.190.240.132
+# 216.58.206.16
+# 216.58.207.80
+# 172.217.22.16
+# 173.194.73.128
+#0.0.0.0 steamcloud-br.s3.dualstack.sa-east-1.amazonaws.com
+#0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
+#0.0.0.0 steamcloud-eu-fra.storage.googleapis.com
+#0.0.0.0 steamcloud-finland.storage.googleapis.com
+#0.0.0.0 steamcloud-saopaulo.storage.googleapis.com
+#0.0.0.0 steamcloud-sg.s3.dualstack.ap-southeast-1.amazonaws.com
+#0.0.0.0 steamcloud-singapore.storage.googleapis.com
+#0.0.0.0 steamcloud-sydney.storage.googleapis.com
+#0.0.0.0 steamcloud-taiwan.storage.googleapis.com
+#0.0.0.0 steamcloud-ugc.storage.googleapis.com
+#0.0.0.0 steamcloudams.blob.core.windows.net
+#0.0.0.0 steamcloudams2.blob.core.windows.net
+#0.0.0.0 steamclouddub.blob.core.windows.net
+#0.0.0.0 steamcloudlrsuswest.blob.core.windows.net
+#0.0.0.0 steamcloudsaopaulo.blob.core.windows.net
+#0.0.0.0 steamcloudsg.blob.core.windows.net
+#0.0.0.0 steamcloudsweden.blob.core.windows.net
+#0.0.0.0 steamclouduseast.blob.core.windows.net
+#0.0.0.0 objectstorage.eu-frankfurt-1.oraclecloud.com
+#0.0.0.0 objectstorage.eu-amsterdam-1.oraclecloud.com
+#0.0.0.0 objectstorage.eu-stockholm-1.oraclecloud.com
+#0.0.0.0 blob.mwh04prdstr01a.store.core.windows.net
+#0.0.0.0 steamcloudmumbai2.blob.core.windows.net
+#0.0.0.0 steamcloud-mumbai.storage.googleapis.com
+#0.0.0.0 steamcloud-tyo.s3.dualstack.ap-northeast-1.amazonaws.com
+# Clouduploads direkt über IP
+# 208.64.201.182 # /depotupload/xxxxx/manifest und chunk
+# Nicht authorisierte Clouduploads
+#0.0.0.0 steamcloudfrankfurt.blob.core.windows.net
+0.0.0.0 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
+0.0.0.0 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
+
+# Steam: Cloudflare
+# 104.18.24.217
+# 104.18.25.217
+# 2606:4700::6812:18d9
+#0.0.0.0 community.cloudflare.steamstatic.com # Sounds, CSS Dateien, Javascript, Emoticons, Icons, Grafiken Sammelkarten
+#0.0.0.0 cdn.cloudflare.steamstatic.com # Grafiken der Bibliothek - Erfolge, Teaser für Bilder und Filmchen
+#0.0.0.0 store.cloudflare.steamstatic.com # Javascript, CSS, Schriften, Webseitengrafiken
+#0.0.0.0 shared.cloudflare.steamstatic.com
+#0.0.0.0 clan.cloudflare.steamstatic.com
+#0.0.0.0 avatars.cloudflare.steamstatic.com
+
+# Steam: Community
+# 84.53.187.17
+# 104.115.82.107
+# 104.73.230.192
+# 190.98.152.19
+# 23.10.118.254
+#0.0.0.0 steamcommunity.com # eigene ID, GruppenID, Freunde, Abzeichen, News, Diskussionen, Miniprofil, Profil und Ökonomie
+#0.0.0.0 steamcommunity-a.akamaihd.net # Emoticons, Bilder, Abzeichen, Skins
+#0.0.0.0 community.akamai.steamstatic.com
+
+# Steam: Crashlogs | Telemetrie
+# Ip/s blockieren:
+# 208.64.203.140
+# 208.64.203.173
+# 23.55.163.64
+0.0.0.0 crash.steampowered.com # BuildID, Zeit, Notes, Plattform, Produktname, Startzeit, Steamuniverse, Theme, Url, UserID, Vendor, Version, Laufzeit, Upload der Minidump uvm.
+0.0.0.0 collector-01.valve.net
+0.0.0.0 collector-02.valve.net
+0.0.0.0 r3.o.lencr.org
+
+# Steam: Discovery
+# Verbindungen während des Clientstarts als auch zum Start von Spielen aktiviert - Auflistnung nicht vollständig
+# Connections activated during client start as well as for starting games - listing not complete
+0.0.0.0 p2p-ams1.discovery.steamserver.net
+0.0.0.0 p2p-fra1.discovery.steamserver.net
+0.0.0.0 p2p-fra2.discovery.steamserver.net
+0.0.0.0 p2p-sto1.discovery.steamserver.net
+
+# Steam: Downloads | Depots | Examples / Beispiele
+# Africa - Nordwest
+#0.0.0.0 cache11-lhr1.steamcontent.com
+#0.0.0.0 cache13-lhr1.steamcontent.com
+#0.0.0.0 cache16-lhr1.steamcontent.com
+#0.0.0.0 cache1-lhr1.steamcontent.com
+# Germany - Berlin
+#0.0.0.0 cache10-fra2.steamcontent.com
+#0.0.0.0 cache11-fra1.steamcontent.com
+#0.0.0.0 cache2-fra2.steamcontent.com
+#0.0.0.0 cache6-fra1.steamcontent.com
+# Japan - Fukuoka
+#0.0.0.0 cache10-tyo3.steamcontent.com
+#0.0.0.0 cache11-tyo3.steamcontent.com
+#0.0.0.0 cache12-tyo3.steamcontent.com
+#0.0.0.0 cache1-tyo3.steamcontent.com
+#0.0.0.0 cache2-tyo3.steamcontent.com
+#0.0.0.0 cache3-tyo3.steamcontent.com
+#0.0.0.0 cache7-tyo3.steamcontent.com
+#0.0.0.0 cache8-tyo3.steamcontent.com
+# Outage/Replacement Server
+#0.0.0.0 alibaba.cdn.steampipe.steamcontent.com
+#0.0.0.0 fastly.cdn.steampipe.steamcontent.com
+#0.0.0.0 google2.cdn.steampipe.steamcontent.com
+
+# Steam: Datagram Relay | SDR
+# Ipv4 Download - https://www.gameindustry.eu/blog/steam-datagram-relay/
+# Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
+
+# Steam: Game Overlay UI
+# Ip/s blockieren:
+# 52.58.211.18
+0.0.0.0 ec2-52-58-211-18.eu-central-1.compute.amazonaws.com
+
+# Steam: IP Checks
+# Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
+0.0.0.0 ipv6check-udp.steamserver.net
+0.0.0.0 ipv6check-http.steamserver.net # Obsolete, but still contacted
+
+# Steam: IP Selector
+# 205.196.6.144
+# 205.196.6.172
+# 205.196.6.174
+# 205.196.6.137
+# 205.196.6.139
+# 205.196.6.141
+# 205.196.6.138
+#0.0.0.0 lancache.steamcontent.com
+0.0.0.0 origin-ip-selector.steampipe.steamcontent.akadns.net
+
+# Steam: Beispiele Multiplayer Serverlisten & Content
+# Valve Server reichen von 1 bis ca. 3000+
+#0.0.0.0 valve561.steamcontent.com
+#0.0.0.0 valve559.steamcontent.com
+#0.0.0.0 valve556.steamcontent.com
+#0.0.0.0 valve555.steamcontent.com
+#0.0.0.0 valve541.steamcontent.com
+#0.0.0.0 valve533.steamcontent.com
+#0.0.0.0 valve525.steamcontent.com
+#0.0.0.0 valve514.steamcontent.com
+#0.0.0.0 valve507.steamcontent.com
+#0.0.0.0 valve506.steamcontent.com
+#0.0.0.0 valve505.steamcontent.com
+#0.0.0.0 valve504.steamcontent.com
+#0.0.0.0 valve501.steamcontent.com
+#0.0.0.0 valve500.steamcontent.com
+#0.0.0.0 valve300.steamcontent.com
+#0.0.0.0 valve2507.steamcontent.com
+#0.0.0.0 valve165.steamcontent.com
+#0.0.0.0 valve1601.steamcontent.com
+
+# Steam: Nutzergenerierte Inhalte
+# 2.20.254.145
+# 104.115.82.975
+# 172.217.23.129
+#0.0.0.0 steamuserimages-a.akamaihd.net # hochgeladene Bilder wie Artworks, Screenshots, verlinkte Chatgrafiken
+#0.0.0.0 photos-ugc.l.googleusercontent.com
+
+# Steam: SteamService.exe
+# Digicert
+# 192.16.58.8
+#0.0.0.0 cs9.wac.phicdn.net
+
+# Steam: streaming_client.exe | RemotePlay
+# GetSDRConfig, Clientservice - NotifyRemotePacket, GetReplies, CreateSessions, Valve Partner
+#0.0.0.0 api.steampowered.com
+
+# Steam: Steamworks
+# 23.78.88.233
+#0.0.0.0 partner.steamgames.com
+
+# Steam: Store
+# 23.66.23.40
+# 104.74.103.35
+# 23.216.77.136
+# 2.23.46.232
+# 2.21.228.105
+# 104.104.24.178
+# 172.227.184.199
+# 104.115.82.107
+# 93.191.15.138
+# 93.191.15.153
+# 93.191.15.170
+# 93.191.15.171
+# https://store.steampowered.com/default/usabilitytracking/
+#0.0.0.0 store.steampowered.com # Altersverifizierung, Nutzungsbedinungen, Suche, Eventtracking, Broadcast, Accountmeldungen, Hover, Updatenews, API Anbindung, Beschreibungen & Ids für Produkte
+#0.0.0.0 steamstore-a.akamaihd.net # Produktgrafiken, Icons, JQuery Scripts, Alterskennzeichnung, Bundles, Subs, Avatare, CSS, Javascript, Clientgrafiken
+
+# Steam: Support
+# 104.18.11.128
+#0.0.0.0 support.steampowered.com
+
+# Steam: Updates
+#0.0.0.0 update.googleapis.com
+#0.0.0.0 client-update.akamai.steamstatic.com
+
+# Steam: Unkategorisiert
+# 2a02:26f0:105:0:0:0:216:16d3
+0.0.0.0 steamstats.valvesoftware.com
+# 155.133.252.39
+# 162.254.198.104
+# 162.254.198.44
+# 103.10.124.125
+# 155.133.226.78
+# 103.10.124.122
+# 162.254.197.54
+# 162.254.197.39
+# 162.254.196.67
+
+# Steam: Weitere Drittanbieter
+# Google, LLC - Youtube, inkl. Logging, Audiences, Doubleclick und Cookies
+# Ip/s blockieren:
+# 172.217.16.150
+# 172.217.22.110
+#0.0.0.0 i.ytimg.com
+#0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 www.google-analytics.com
+# Paypal Tracking - Aktiv im Warenkorb, auch ohne eingegebene Paypaldaten
+# 151.101.129.21
+#0.0.0.0 www.paypal.com # Logger, TagManager, Trackingcookies
+#0.0.0.0 www-fastly.glb.paypal.com
+0.0.0.0 t.paypal.com # Trackingpixel
