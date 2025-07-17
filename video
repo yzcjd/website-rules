@@ -12,13 +12,6 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
 # CFT
 DOMAIN-SUFFIX,cloudfront.net
-# steam
-# DOMAIN-SUFFIX,steamstatic.com
-# DOMAIN-SUFFIX,steampowered.com
-# DOMAIN-SUFFIX,steamcontent.com
-# DOMAIN-SUFFIX,steamserver.net
-# DOMAIN-KEYWORD,steam
-# DOMAIN-KEYWORD,steamstatic
 
 # 【特定网站】———————————————————————
 
@@ -26,6 +19,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
+
 # 低端影视 ddys.info
 DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.pro
@@ -36,12 +30,11 @@ DOMAIN-SUFFIX,objects.githubusercontent.com
 
 # twitch
 DOMAIN-SUFFIX,twitchcdn.net
-# 76553a7dc934.j.cloudfront.hls.ttvnw.net
+# 76553a7dc934.j.cloudfront.hls.ttvnw.net 能直连但卡顿
 DOMAIN-SUFFIX,ttvnw.net
 
 # 555 电影
-# 旧，可能无效
-DOMAIN-SUFFIX,vip.ffzy-play5.com
+# 很多已不再使用，先留着
 DOMAIN-SUFFIX,uwxy011.com
 DOMAIN-SUFFIX,5679abb.com
 DOMAIN-SUFFIX,vwx01.com
@@ -52,21 +45,15 @@ DOMAIN-SUFFIX,ffzyread1.com
 DOMAIN-SUFFIX,ryplay11.com
 DOMAIN-SUFFIX,xxya88.com
 DOMAIN-SUFFIX,rrcdnbf4.com
-# ——————
-DOMAIN-SUFFIX,vip.ffzy-play10.com
-# 只发现了 5 和 10，预判下命名
-# DOMAIN-SUFFIX,vip.ffzy-play11.com
-# DOMAIN-SUFFIX,vip.ffzy-play12.com
-# DOMAIN-SUFFIX,vip.ffzy-play13.com
-# DOMAIN-SUFFIX,vip.ffzy-play14.com
-DOMAIN-SUFFIX,vip.ffzy-play15.com
-DOMAIN-SUFFIX,vip.ffzy-play20.com
-DOMAIN-SUFFIX,vip.ffzy-play25.com
-# DOMAIN-SUFFIX,nwbj9qnhpcxa.com  好像能直连，先试试
 DOMAIN-SUFFIX,v3.dious.cc
-# 这两个域名相同（cname）
-DOMAIN-SUFFIX,v3.ivipcdn.com
-DOMAIN-SUFFIX,cdn8.ryplay8.com
+DOMAIN-SUFFIX,bvvvvvvvvv1f.com
+DOMAIN-SUFFIX,jisuts.com
+
+
+# ——————
+
+
+# 其他
 DOMAIN-SUFFIX,i.imgur.com
 DOMAIN-SUFFIX,ffzy-play2.com
 DOMAIN-SUFFIX,livecloud.akamaized.net
@@ -87,6 +74,9 @@ DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 
+
+
+
 #【不分类】
 DOMAIN-SUFFIX,intersystems.com
 DOMAIN-SUFFIX,dailymotion.com
@@ -98,10 +88,25 @@ DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
 
 # 【关键词规则】——————————————————————
-
-#DOMAIN-KEYWORD,cdn  这个走直连也不对，排除
+# 通用，可能出错
+#DOMAIN-KEYWORD,cdn  这个容易误伤，走直连也不对，排除。但是可以加数字
+#DOMAIN-KEYWORD,cdn1
+#DOMAIN-KEYWORD,cdn2
+#DOMAIN-KEYWORD,cdn3
+#DOMAIN-KEYWORD,cdn4
+#DOMAIN-KEYWORD,cdn5
+#DOMAIN-KEYWORD,cdn6
+#DOMAIN-KEYWORD,cdn7
+#DOMAIN-KEYWORD,cdn8
+#DOMAIN-KEYWORD,cdn9
+#DOMAIN-KEYWORD,cdn10
+#DOMAIN-KEYWORD,cdn11
+#DOMAIN-KEYWORD,cdn12
+#DOMAIN-KEYWORD,cdn13
+#DOMAIN-KEYWORD,cdn14
+#DOMAIN-KEYWORD,cdn15
 #DOMAIN-KEYWORD,-av
-#DOMAIN-KEYWORD,ts 扩展名 
+#DOMAIN-KEYWORD,ts 媒体文件常用扩展名 
 DOMAIN-KEYWORD,media
 DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
@@ -117,15 +122,18 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
 
-# 【有点抽象的关键词】————————————————————
+# 【有点抽象的关键词，比较特定】————————————————————
 DOMAIN-KEYWORD,tvtv
 DOMAIN-KEYWORD,1440p
 DOMAIN-KEYWORD,1080p
 DOMAIN-KEYWORD,720p
 DOMAIN-KEYWORD,480p
-DOMAIN-KEYWORD,cdn1
-DOMAIN-KEYWORD,cdn2
-DOMAIN-KEYWORD,cdn3
+DOMAIN-KEYWORD,ryplay
+DOMAIN-KEYWORD,ffzy
+
+
+
+# ——————
 # DOMAIN-KEYWORD,v1  常用命名，排除
 # DOMAIN-KEYWORD,v2  v2ray 误伤
 DOMAIN-KEYWORD,v3
