@@ -4,7 +4,7 @@
 ;应该是 edge 浏览器同步服务，延迟很高。可直连
 DOMAIN-SUFFIX,pushfp.svc.ms
 
-;vps小鸡
+;某机场面板IP
 ;47.115.49.124
 IP-CIDR,47.115.49.0/24,no-resolve
 
