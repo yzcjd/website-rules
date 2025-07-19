@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,honeygain
 
 
 # akamai cdn
-DOMAIN-SUFFIX,akamaized.net
+# DOMAIN-SUFFIX,akamaized.net
 
 
 
