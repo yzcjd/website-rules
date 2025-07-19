@@ -19,6 +19,11 @@ DOMAIN-KEYWORD,honeygain
 
 
 
+# akamai cdn
+DOMAIN-SUFFIX,akamaized.net
+
+
+
 
 
 
