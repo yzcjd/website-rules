@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,update.ayugram.one
 # CF R2
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,gofile.io
-# CFT
+# CFT 晚高峰直连太慢了，如twitch
 DOMAIN-SUFFIX,cloudfront.net
 
 # 【特定网站】———————————————————————
@@ -33,8 +33,8 @@ DOMAIN-SUFFIX,twitchcdn.net
 # 76553a7dc934.j.cloudfront.hls.ttvnw.net 能直连但卡顿
 DOMAIN-SUFFIX,ttvnw.net
 
-# 555 电影
-# 很多已不再使用，先留着
+# 盗版网站套的视频域名
+# 很多已不再使用，先留着吧
 DOMAIN-SUFFIX,uwxy011.com
 DOMAIN-SUFFIX,5679abb.com
 DOMAIN-SUFFIX,vwx01.com
@@ -48,6 +48,10 @@ DOMAIN-SUFFIX,rrcdnbf4.com
 DOMAIN-SUFFIX,v3.dious.cc
 DOMAIN-SUFFIX,bvvvvvvvvv1f.com
 DOMAIN-SUFFIX,jisuts.com
+DOMAIN-SUFFIX,xlzyd.com
+DOMAIN-SUFFIX,ovaltinecdn.com
+
+
 
 
 # ——————
@@ -74,9 +78,6 @@ DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 
-
-
-
 #【不分类】
 DOMAIN-SUFFIX,intersystems.com
 DOMAIN-SUFFIX,dailymotion.com
@@ -86,6 +87,10 @@ DOMAIN-SUFFIX,brnowy.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
+
+
+
+
 
 # 【关键词规则】——————————————————————
 # 通用，可能出错
