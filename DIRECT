@@ -5,10 +5,8 @@
 DOMAIN-SUFFIX,pushfp.svc.ms
 
 ;某机场面板IP
-;47.115.49.124，23.27.98.213
-;IP-CIDR,47.115.49.0/24,no-resolve
-IP-CIDR,23.27.98.0/24,no-resolve
-
+IP-CIDR,http://23.27.98.0/24,no-resolve
+DOMAIN-SUFFIX,xn--3iq226gfdb94q.com
 
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
@@ -19,9 +17,6 @@ DOMAIN-KEYWORD,honeygain
 # DOMAIN-KEYWORD,packetstream
 
 
-
-# akamai cdn
-# DOMAIN-SUFFIX,akamaized.net
 
 
 
