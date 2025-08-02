@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,pushfp.svc.ms
 
 ;某机场面板IP
-IP-CIDR,http://23.27.98.0/24,no-resolve
+IP-CIDR,23.27.98.0/24,no-resolve
 DOMAIN-SUFFIX,xn--3iq226gfdb94q.com
 
 # coc阵型
