@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,bfikuncdn.com
 
 
 
@@ -115,13 +116,17 @@ DOMAIN-KEYWORD,vod
 DOMAIN-KEYWORD,vip
 DOMAIN-KEYWORD,svip
 DOMAIN-KEYWORD,mp4
-# DOMAIN-KEYWORD,play
+DOMAIN-KEYWORD,play
 DOMAIN-KEYWORD,player
 DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
+DOMAIN-KEYWORD,update
+DOMAIN-KEYWORD,download
+
+
 
 # 【有点抽象的关键词，比较特定】————————————————————
 DOMAIN-KEYWORD,tvtv
@@ -132,9 +137,6 @@ DOMAIN-KEYWORD,480p
 DOMAIN-KEYWORD,ryplay
 DOMAIN-KEYWORD,ffzy
 
-
-
-# ——————
 # DOMAIN-KEYWORD,v1  常用命名，排除
 # DOMAIN-KEYWORD,v2  v2ray 误伤
 DOMAIN-KEYWORD,v3
