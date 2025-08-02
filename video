@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 # 76553a7dc934.j.cloudfront.hls.ttvnw.net 能直连但卡顿
 DOMAIN-SUFFIX,ttvnw.net
 
-# 盗版网站套的视频域名
+# 盗版视频站用的视频域名
 # 很多已不再使用，先留着吧
 DOMAIN-SUFFIX,uwxy011.com
 DOMAIN-SUFFIX,5679abb.com
@@ -52,18 +52,6 @@ DOMAIN-SUFFIX,xlzyd.com
 DOMAIN-SUFFIX,ovaltinecdn.com
 DOMAIN-SUFFIX,ijlmno.com
 
-
-
-
-# ——————
-
-
-# 其他
-DOMAIN-SUFFIX,i.imgur.com
-DOMAIN-SUFFIX,ffzy-play2.com
-DOMAIN-SUFFIX,livecloud.akamaized.net
-DOMAIN-SUFFIX,xascdn.li
-DOMAIN-SUFFIX,9abbde.com
 # naver
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,navercdn.com
@@ -80,6 +68,11 @@ DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 
 #【不分类】
+DOMAIN-SUFFIX,i.imgur.com
+DOMAIN-SUFFIX,ffzy-play2.com
+DOMAIN-SUFFIX,livecloud.akamaized.net
+DOMAIN-SUFFIX,xascdn.li
+DOMAIN-SUFFIX,9abbde.com
 DOMAIN-SUFFIX,intersystems.com
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,bfllvip.com
@@ -88,6 +81,8 @@ DOMAIN-SUFFIX,brnowy.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
+DOMAIN-SUFFIX,phncdn.com
+
 
 
 
