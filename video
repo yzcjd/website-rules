@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,twitchcdn.net
 # 76553a7dc934.j.cloudfront.hls.ttvnw.net 能直连但卡顿
 DOMAIN-SUFFIX,ttvnw.net
 
+#naver
+DOMAIN-SUFFIX,akamaized.net
+
 # 盗版视频站用的视频域名
 # 很多已不再使用，先留着吧
 DOMAIN-SUFFIX,uwxy011.com
