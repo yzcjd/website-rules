@@ -35,7 +35,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,challenges.cloudflare.com
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
-IP-ASN,20473,no-resolve
+# IP-ASN,20473,no-resolve
 
 # perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
