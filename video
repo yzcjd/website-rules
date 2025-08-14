@@ -55,6 +55,13 @@ DOMAIN-SUFFIX,xlzyd.com
 DOMAIN-SUFFIX,ovaltinecdn.com
 DOMAIN-SUFFIX,ijlmno.com
 
+##量子
+# lz15uu.com
+# lzdown27.com
+# cdnlz11.com
+# cdnlz13.com
+
+
 # naver
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,navercdn.com
@@ -128,7 +135,10 @@ DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
 DOMAIN-KEYWORD,update
 DOMAIN-KEYWORD,download
-
+# 其他特定
+DOMAIN-KEYWORD,lzdown
+DOMAIN-KEYWORD,cdnlz
+DOMAIN-KEYWORD,lz15uu
 
 
 # 【有点抽象的关键词，比较特定】————————————————————
