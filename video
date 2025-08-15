@@ -30,11 +30,9 @@ DOMAIN-SUFFIX,objects.githubusercontent.com
 
 # twitch
 DOMAIN-SUFFIX,twitchcdn.net
-# 76553a7dc934.j.cloudfront.hls.ttvnw.net 能直连但卡顿
+# *.j.cloudfront.hls.ttvnw.net 能直连但卡顿
 DOMAIN-SUFFIX,ttvnw.net
 
-#naver
-DOMAIN-SUFFIX,akamaized.net
 
 # 盗版视频站用的视频域名
 # 很多已不再使用，先留着吧
@@ -55,16 +53,12 @@ DOMAIN-SUFFIX,xlzyd.com
 DOMAIN-SUFFIX,ovaltinecdn.com
 DOMAIN-SUFFIX,ijlmno.com
 
-##量子
-# lz15uu.com
-# lzdown27.com
-# cdnlz11.com
-# cdnlz13.com
 
 
 # naver
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,navercdn.com
+DOMAIN-SUFFIX,akamaized.net
 # goodav17 / ggjav
 DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,cloudatacdn.com
@@ -77,7 +71,7 @@ DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,sagcoreedge.com
 DOMAIN-SUFFIX,orbitcache.com
 
-#【不分类】
+#
 DOMAIN-SUFFIX,i.imgur.com
 DOMAIN-SUFFIX,ffzy-play2.com
 DOMAIN-SUFFIX,livecloud.akamaized.net
@@ -99,8 +93,7 @@ DOMAIN-SUFFIX,bfikuncdn.com
 
 
 
-# 【关键词规则】——————————————————————
-# 通用，可能出错
+# 【关键词规则】通用，可能出错——————————————————————
 # DOMAIN-KEYWORD,cdn  这个容易误伤，走直连也不对，排除。但是可以加数字
 DOMAIN-KEYWORD,cdn1
 DOMAIN-KEYWORD,cdn2
@@ -117,8 +110,6 @@ DOMAIN-KEYWORD,cdn12
 DOMAIN-KEYWORD,cdn13
 DOMAIN-KEYWORD,cdn14
 DOMAIN-KEYWORD,cdn15
-#DOMAIN-KEYWORD,-av
-#DOMAIN-KEYWORD,ts 媒体文件常用扩展名 
 DOMAIN-KEYWORD,media
 DOMAIN-KEYWORD,video
 DOMAIN-KEYWORD,vid
@@ -127,30 +118,29 @@ DOMAIN-KEYWORD,vip
 DOMAIN-KEYWORD,svip
 DOMAIN-KEYWORD,mp4
 DOMAIN-KEYWORD,play
-DOMAIN-KEYWORD,player
+# DOMAIN-KEYWORD,player
+# DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,cache
 DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,livecloud
 DOMAIN-KEYWORD,update
 DOMAIN-KEYWORD,download
-# 其他特定
+# 量子
 DOMAIN-KEYWORD,lzdown
 DOMAIN-KEYWORD,cdnlz
 DOMAIN-KEYWORD,lzcdn
 DOMAIN-KEYWORD,lz15uu
-
-
-# 【有点抽象的关键词，比较特定】————————————————————
+#555
 DOMAIN-KEYWORD,tvtv
+DOMAIN-KEYWORD,ryplay
+DOMAIN-KEYWORD,ffzy
+
+# 【有点抽象的关键词】————————————————————
 DOMAIN-KEYWORD,1440p
 DOMAIN-KEYWORD,1080p
 DOMAIN-KEYWORD,720p
 DOMAIN-KEYWORD,480p
-DOMAIN-KEYWORD,ryplay
-DOMAIN-KEYWORD,ffzy
-
 # DOMAIN-KEYWORD,v1  常用命名，排除
 # DOMAIN-KEYWORD,v2  v2ray 误伤
 DOMAIN-KEYWORD,v3
