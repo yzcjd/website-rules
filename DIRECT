@@ -5,8 +5,7 @@
 DOMAIN-SUFFIX,pushfp.svc.ms
 
 ;某机场面板IP
-IP-CIDR,23.27.98.0/24,no-resolve
-DOMAIN-SUFFIX,xn--3iq226gfdb94q.com
+IP-CIDR,47.115.49.0/24,no-resolve
 
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
