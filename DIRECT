@@ -10,13 +10,43 @@ IP-CIDR,47.115.49.0/24,no-resolve
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
 
-# 挂机（走美国失败了）
-DOMAIN-KEYWORD,honeygain
-# DOMAIN-KEYWORD,earnapp
-# DOMAIN-KEYWORD,packetstream
 
 
 
+
+####   TUN模式挂机才需要额外设置  ####    
+# （或者仪表盘连不上的时候避免调地区）（没有家宽代理的话建议直连）
+
+# DOMAIN-KEYWORD,honeygain
+# 仪表盘直连打不开，所以只能手动设置
+# DOMAIN,dashboard.honeygain.com 这个走代理
+DOMAIN-KEYWORD,honeygain.com
+DOMAIN-KEYWORD,api.honeygain.com
+DOMAIN-KEYWORD,cdn.honeygain.com
+
+DOMAIN-KEYWORD,earnapp
+# earnapp.com
+# api.earnapp.com
+# dash.earnapp.com
+
+DOMAIN-KEYWORD,grass
+# grass.io
+# api.grass.io
+# extension.grass.io
+
+DOMAIN-KEYWORD,peer2profit
+# peer2profit.io
+# api.peer2profit.io
+
+DOMAIN-KEYWORD,packetstream
+# packetstream.io
+# api.packetstream.io
+
+DOMAIN-KEYWORD,pawns
+DOMAIN-KEYWORD,iproyal
+# iproyal.com
+# pawns.app
+# api.pawns.app
 
 
 
