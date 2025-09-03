@@ -20,9 +20,9 @@ DOMAIN-SUFFIX,clashchamps.com
 # DOMAIN-KEYWORD,honeygain
 # 仪表盘直连打不开，所以只能手动设置
 # DOMAIN,dashboard.honeygain.com 这个走代理
-DOMAIN-KEYWORD,honeygain.com
-DOMAIN-KEYWORD,api.honeygain.com
-DOMAIN-KEYWORD,cdn.honeygain.com
+DOMAIN-SUFFIX,honeygain.com
+DOMAIN-SUFFIX,api.honeygain.com
+DOMAIN-SUFFIX,cdn.honeygain.com
 
 DOMAIN-KEYWORD,earnapp
 # earnapp.com
