@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,pushfp.svc.ms
 
 ;某机场面板IP
 IP-CIDR,47.115.49.0/24,no-resolve
+DOMAIN-SUFFIX,parkson-market.org
 
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
