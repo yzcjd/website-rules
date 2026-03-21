@@ -4,6 +4,27 @@
 # ruleset=REJECT,https://raw.githubusercontent.com/yzcjd/website-rules/1/REJECT
 
 
+# 新测试
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,applovin.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 自用部分（新规则测试中）
 # YouTube 去广告
 # DOMAIN-KEYWORD,ads
