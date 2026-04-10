@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,cat-broker.yupaopao.cn
 DOMAIN-SUFFIX,abtest.volceapplog.com
 DOMAIN-SUFFIX,klink.volceapplog.com
 DOMAIN-SUFFIX,license.vod2.myqcloud.com
+DOMAIN-SUFFIX,dig.bdurl.net
 
 IP-CIDR,157.148.48.223/32,no-resolve
 IP-CIDR,43.134.250.169/32,no-resolve
