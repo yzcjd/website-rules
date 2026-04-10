@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,volceapplog.com
 # DOMAIN-SUFFIX,web.bixin.cn
 # DOMAIN-SUFFIX,h5.yuerzhibo.com
 
-#语音服务
+# 语音服务
 DOMAIN-SUFFIX,cat-broker.yupaopao.cn
 
 # 腾讯云视频授权
