@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,playartifact.com
 # DOMAIN-SUFFIX,steam-chat.com
 # DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
