@@ -14,9 +14,25 @@ DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 DOMAIN-SUFFIX,yppphoto.hellobixin.com
 DOMAIN-SUFFIX,cm-10-135.getui.com
+DOMAIN-SUFFIX,p6.hellobixin.com
+DOMAIN-SUFFIX,web.bixin.cn
+DOMAIN-SUFFIX,h5.yuerzhibo.com
+DOMAIN-SUFFIX,bps.1-xian.cn
+DOMAIN-SUFFIX,cat-broker.yupaopao.cn
+DOMAIN-SUFFIX,abtest.volceapplog.com
+DOMAIN-SUFFIX,klink.volceapplog.com
+DOMAIN-SUFFIX,license.vod2.myqcloud.com
+
+IP-CIDR,157.148.48.223/32,no-resolve
+IP-CIDR,43.134.250.169/32,no-resolve
+
+DOMAIN-SUFFIX,getui.com
+# sdk-open-phone.getui.com
+# sdk.open.talk.getui.com
+
+
 
 # DOMAIN-SUFFIX,bps.hibixin.com
-# DOMAIN-SUFFIX,p6.hellobixin.com
 # DOMAIN-SUFFIX,mat-broker.hibixin.com
 
 
