@@ -12,11 +12,18 @@ DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # 比心
 
-DOMAIN-SUFFIX,yppphoto.hellobixin.com
-DOMAIN-SUFFIX,cm-10-135.getui.com
-DOMAIN-SUFFIX,p6.hellobixin.com
-DOMAIN-SUFFIX,web.bixin.cn
-DOMAIN-SUFFIX,h5.yuerzhibo.com
+# 头像
+# DOMAIN-SUFFIX,yppphoto.hellobixin.com
+# 个推？
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.com
+# sdk.open.talk.gepush.com
+# DOMAIN-SUFFIX,cm-10-135.getui.com
+
+
+# DOMAIN-SUFFIX,p6.hellobixin.com
+# DOMAIN-SUFFIX,web.bixin.cn
+# DOMAIN-SUFFIX,h5.yuerzhibo.com
 DOMAIN-SUFFIX,bps.1-xian.cn
 DOMAIN-SUFFIX,cat-broker.yupaopao.cn
 DOMAIN-SUFFIX,abtest.volceapplog.com
