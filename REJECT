@@ -7,13 +7,18 @@
 # 实验性测试
 
 
-# 微信
-DOMAIN-SUFFIX,pgdt.gtimg.cn
-DOMAIN-SUFFIX,mmbiz.qpic.cn
+# 【微信】测试中
+
+
+
+
+
+# 似乎是小程序广告
+DOMAIN-SUFFIX,ad-ga.nocode.com
+
+
 
 # 【比心】
-# 头像
-# DOMAIN-SUFFIX,yppphoto.hellobixin.com
 # 个推
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
@@ -32,7 +37,7 @@ DOMAIN-SUFFIX,volceapplog.com
 # DOMAIN-SUFFIX,web.bixin.cn
 # DOMAIN-SUFFIX,h5.yuerzhibo.com
 
-# 语音服务（直播间长连接？）
+# 语音服务（直播间长连接？禁用就无法挂在后台）
 # DOMAIN-SUFFIX,cat-broker.yupaopao.cn
 
 # 腾讯云视频授权
@@ -49,13 +54,21 @@ DOMAIN-SUFFIX,volceapplog.com
 # DOMAIN-SUFFIX,mat-broker.hibixin.com
 
 
+
+
+# 以下基本确定
+# =====================================================
+
+# 微信（文章内卡片、文末广告）
+DOMAIN-SUFFIX,wxs.qq.com
+# DOMAIN-SUFFIX,wxa.wxs.qq.com
+# DOMAIN-SUFFIX,wxsmw.wxs.qq.com
+# DOMAIN-SUFFIX,wximg.wxs.qq.com
+
+
 # 番茄小说
 DOMAIN-SUFFIX,fqnovelvod.com
 
-
-
-
-# =====================================================
 
 # Wegame
 # 活动弹窗
@@ -63,8 +76,19 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
-# 偷的微信规则，先加上试试
-# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
-# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-# DOMAIN-SUFFIX,ad.weixin.qq.com
-# DOMAIN-SUFFIX,as.weixin.qq.com
+
+# 别人写的微信规则（未知作用）
+# =====================================================
+
+# 作者1
+DOMAIN-SUFFIX,ad.weixin.qq.com
+DOMAIN-SUFFIX,as.weixin.qq.com
+
+# 作者2 微信小程序通用规则
+# DOMAIN,wxsnsdy.wxs.qq.com
+DOMAIN,wxsmsdy.video.qq.com
+# DOMAIN,wxsnsdythumb.wxs.qq.com
+# 收钱吧广告
+DOMAIN,ads-shopping.shouqianba.com
+# 猫眼电影
+DOMAIN,ad.maoyan.com
