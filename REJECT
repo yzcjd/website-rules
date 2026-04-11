@@ -32,8 +32,8 @@ DOMAIN-SUFFIX,volceapplog.com
 # DOMAIN-SUFFIX,web.bixin.cn
 # DOMAIN-SUFFIX,h5.yuerzhibo.com
 
-# 语音服务
-DOMAIN-SUFFIX,cat-broker.yupaopao.cn
+# 语音服务（直播间长连接？）
+# DOMAIN-SUFFIX,cat-broker.yupaopao.cn
 
 # 腾讯云视频授权
 # DOMAIN-SUFFIX,license.vod2.myqcloud.com
