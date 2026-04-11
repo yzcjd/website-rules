@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,mmbiz.qpic.cn
 DOMAIN-SUFFIX,mp.weixin.qq.com
 
 # 【比心】
-
 # 头像
 # DOMAIN-SUFFIX,yppphoto.hellobixin.com
 # 个推
@@ -59,35 +58,6 @@ DOMAIN-SUFFIX,fqnovelvod.com
 
 
 # =====================================================
-# 【【【 微信广告 】】】
-
-# 封面图：订阅号信息流、底部文章推荐（不影响正文图片）
-# DOMAIN-SUFFIX,mmbiz.qpic.cn
-# 文章中末卡片
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/advertisement
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/getappmsgad
-DOMAIN-SUFFIX,mp.weixin.qq.com/mp/appmsgreport
-# 文章底部卡片
-# 文章底部推荐三篇
-# 文章评论区头像
-# DOMAIN-SUFFIX,wx.qlogo.cn
-
-# 微信小程序
-# DOMAIN-SUFFIX,ulogs.umeng.com
-# DOMAIN-SUFFIX,file.neixin.cn
-# DOMAIN-SUFFIX,dreport.meituan.net
-
-
-# 美团
-# DOMAIN-SUFFIX,shark.dianping.com
-# 京东
-# DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
-# DOMAIN-SUFFIX,blackhole.m.jd.com
-# 淘宝
-DOMAIN-SUFFIX,hudong.alicdn.com
-# 淘宝直播
-# DOMAIN-SUFFIX,live-spare.alicdn.com
-
 
 # Wegame
 # 活动弹窗
@@ -95,9 +65,8 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
-
 # 偷的微信规则，先加上试试
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-DOMAIN-SUFFIX,ad.weixin.qq.com
-DOMAIN-SUFFIX,as.weixin.qq.com
+# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+# DOMAIN-SUFFIX,ad.weixin.qq.com
+# DOMAIN-SUFFIX,as.weixin.qq.com
