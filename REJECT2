@@ -1,3 +1,5 @@
+# 关键词规则（可能误杀多，暂废弃）
+
 DOMAIN-KEYWORD,ad
 DOMAIN-KEYWORD,ads
 DOMAIN-KEYWORD,adsys
