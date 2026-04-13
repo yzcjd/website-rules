@@ -1,3 +1,5 @@
+# https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/AD.list
+
 # > 广告联盟
 DOMAIN,i.snssdk.com
 DOMAIN,is.snssdk.com
