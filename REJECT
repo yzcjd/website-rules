@@ -8,7 +8,6 @@
 
 
 # 【微信】测试中
-DOMAIN,badjs.weixinbridge.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
 
@@ -26,6 +25,23 @@ DOMAIN-SUFFIX,m1.ad.10010.com
 # 似乎是小程序广告
 DOMAIN-SUFFIX,ad-ga.nocode.com
 
+# =====
+# JS错误上报（公众号常见）
+DOMAIN,badjs.weixinbridge.com
+
+# 腾讯统一错误收集
+DOMAIN,badjs.qq.com
+
+# 前端日志/监控
+DOMAIN,report.qq.com
+DOMAIN,report.weixin.qq.com
+
+# =====
+
+# 数据上报（通用）
+DOMAIN,log.weixin.qq.com
+DOMAIN,log.tbs.qq.com
+DOMAIN,log.tpns.tencent.com
 
 
 # 【比心】
