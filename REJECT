@@ -12,8 +12,16 @@ DOMAIN,badjs.weixinbridge.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
 
+# 云闪付开屏广告
+DOMAIN,ads.95516.com
+DOMAIN,switch.cup.com.cn
 
+# 通用广告
+DOMAIN-SUFFIX,doubleclick-cn.net
+DOMAIN-SUFFIX,doubleclick.net
 
+# 中国联通
+DOMAIN-SUFFIX,m1.ad.10010.com
 
 # 似乎是小程序广告
 DOMAIN-SUFFIX,ad-ga.nocode.com
