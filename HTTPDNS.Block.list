@@ -31,7 +31,7 @@ DOMAIN,doh.iqiyi.com
 # JD
 DOMAIN,dns.jd.com
 IP-CIDR,101.124.19.122/32,no-resolve
-IP-CIDR6,2402:db40:5100:1011::5/128
+IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
 # JD Cloud
 IP-CIDR,103.224.222.208/32,no-resolve
 # Kuwo
