@@ -56,7 +56,7 @@ DOMAIN,wn.pos.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,union.baidu.cn
 DOMAIN-SUFFIX,union.baidu.com
-IP-CIDR,180.76.76.200/32
+IP-CIDR,180.76.76.200/32,no-resolve
 
 # > Bilibili
 DOMAIN,mall.bilibili.com
