@@ -4,15 +4,8 @@
 ;应该是 edge 浏览器同步服务，延迟很高。可直连
 DOMAIN-SUFFIX,pushfp.svc.ms
 
-;某机场面板IP
-IP-CIDR,47.115.49.0/24,no-resolve
-DOMAIN-SUFFIX,parkson-market.org
-
 # coc阵型
 DOMAIN-SUFFIX,clashchamps.com
-
-
-
 
 
 ####   TUN模式挂机才需要额外设置  ####    
@@ -30,21 +23,25 @@ DOMAIN-KEYWORD,earnapp
 # api.earnapp.com
 # dash.earnapp.com
 
-DOMAIN-KEYWORD,grass
-# grass.io
-# api.grass.io
-# extension.grass.io
-
+# repocket
 DOMAIN-KEYWORD,peer2profit
 # peer2profit.io
 # api.peer2profit.io
 
-DOMAIN-KEYWORD,packetstream
+# 后面几个已不用
+
+# DOMAIN-KEYWORD,grass
+# grass.io
+# api.grass.io
+# extension.grass.io
+
+
+# DOMAIN-KEYWORD,packetstream
 # packetstream.io
 # api.packetstream.io
 
-DOMAIN-KEYWORD,pawns
-DOMAIN-KEYWORD,iproyal
+# DOMAIN-KEYWORD,pawns
+# DOMAIN-KEYWORD,iproyal
 # iproyal.com
 # pawns.app
 # api.pawns.app
