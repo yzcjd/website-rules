@@ -53,43 +53,6 @@ DOMAIN,log.tbs.qq.com
 DOMAIN,log.tpns.tencent.com
 
 
-# 【比心】
-# 个推
-DOMAIN-SUFFIX,gepush.com
-DOMAIN-SUFFIX,getui.com
-# sdk.open.talk.gepush.com
-# sdk-open-phone.getui.com
-# sdk.open.talk.getui.com
-# cm-10-135.getui.com
-
-# 火山引擎上报埋点（行为记录上报，可能导致手机发热）
-DOMAIN-SUFFIX,volceapplog.com
-# DOMAIN-SUFFIX,abtest.volceapplog.com
-# DOMAIN-SUFFIX,klink.volceapplog.com
-
-# 似乎是正常服务
-# DOMAIN-SUFFIX,p6.hellobixin.com
-# DOMAIN-SUFFIX,web.bixin.cn
-# DOMAIN-SUFFIX,h5.yuerzhibo.com
-
-# 语音服务（直播间长连接？禁用就无法挂在后台）
-# DOMAIN-SUFFIX,cat-broker.yupaopao.cn
-
-# 腾讯云视频授权
-# DOMAIN-SUFFIX,license.vod2.myqcloud.com
-
-# 其他
-# DOMAIN-SUFFIX,bps.1-xian.cn
-
-# 未知
-# DOMAIN-SUFFIX,dig.bdurl.net
-# IP-CIDR,157.148.48.223/32,no-resolve
-# IP-CIDR,43.134.250.169/32,no-resolve
-# DOMAIN-SUFFIX,bps.hibixin.com
-# DOMAIN-SUFFIX,mat-broker.hibixin.com
-
-
-
 
 # 以下基本确定
 # =====================================================
