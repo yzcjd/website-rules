@@ -20,6 +20,13 @@ DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
 
+
+# 【比心】
+# 个推
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.com
+
+
 # 云闪付开屏广告
 DOMAIN,ads.95516.com
 DOMAIN,switch.cup.com.cn
