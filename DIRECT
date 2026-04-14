@@ -11,16 +11,15 @@ DOMAIN-SUFFIX,clashchamps.com
 ####   TUN模式挂机才需要额外设置  ####    
 # （或者仪表盘连不上的时候避免调地区）（没有家宽代理的话建议直连）
 
-# DOMAIN-KEYWORD,honeygain
-# 仪表盘直连打不开，所以只能手动设置
+# honeygain
 # DOMAIN,dashboard.honeygain.com 这个走代理
-DOMAIN-SUFFIX,honeygain.com
+# DOMAIN-SUFFIX,honeygain.com
 DOMAIN-SUFFIX,api.honeygain.com
 DOMAIN-SUFFIX,cdn.honeygain.com
 
-DOMAIN-KEYWORD,earnapp
+# DOMAIN-KEYWORD,earnapp
 # earnapp.com
-# api.earnapp.com
+DOMAIN-SUFFIX,api.earnapp.com
 # dash.earnapp.com
 
 # repocket
