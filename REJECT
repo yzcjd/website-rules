@@ -25,6 +25,7 @@ DOMAIN,dns.weixin.qq.com
 # 个推
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,volceapplog.com
 
 
 # 云闪付开屏广告
