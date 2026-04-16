@@ -19,6 +19,7 @@ IP-CIDR6,240e:928:1400:10::25/128,no-resolve
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
+DOMAIN,a.gdt.qq.com
 
 
 # 【比心】
@@ -26,6 +27,17 @@ DOMAIN,dns.weixin.qq.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,volceapplog.com
+
+
+# 番茄小说
+DOMAIN-SUFFIX,vc-brain.ndcpp.com
+IP-CIDR6,2408:8459:2c10:5d86:420d:3a85:17be:2/128,no-resolve
+IP-CIDR6,2408:8459:3460:2a72:5679:8e74:a11:d0bd/128,no-resolve
+
+
+# 未知
+DOMAIN-SUFFIX,www.bytedance.com
+
 
 
 # 云闪付开屏广告
