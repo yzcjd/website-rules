@@ -21,24 +21,8 @@ DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
 DOMAIN,a.gdt.qq.com
 
-
-# 【比心】
-# 个推
-DOMAIN-SUFFIX,gepush.com
-DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,volceapplog.com
-
-
-# 番茄小说
-DOMAIN-SUFFIX,vc-brain.ndcpp.com
-IP-CIDR6,2408:8459:2c10:5d86:420d:3a85:17be:2/128,no-resolve
-IP-CIDR6,2408:8459:3460:2a72:5679:8e74:a11:d0bd/128,no-resolve
-
-
 # 未知
 DOMAIN-SUFFIX,www.bytedance.com
-
-
 
 # 云闪付开屏广告
 DOMAIN,ads.95516.com
@@ -67,7 +51,7 @@ DOMAIN,report.weixin.qq.com
 
 # =====
 
-# 数据上报（通用）
+# 数据上报（腾讯系通用）
 DOMAIN,log.weixin.qq.com
 DOMAIN,log.tbs.qq.com
 DOMAIN,log.tpns.tencent.com
@@ -82,16 +66,6 @@ DOMAIN-SUFFIX,wxs.qq.com
 # DOMAIN-SUFFIX,wxa.wxs.qq.com
 # DOMAIN-SUFFIX,wxsmw.wxs.qq.com
 # DOMAIN-SUFFIX,wximg.wxs.qq.com
-
-
-# 番茄小说
-DOMAIN-SUFFIX,fqnovelvod.com
-
-
-# Wegame
-# 活动弹窗
-DOMAIN-SUFFIX,msstatic.com
-DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
 
 
 
