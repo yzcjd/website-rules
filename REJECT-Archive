@@ -1,0 +1,23 @@
+# 软件规则，不起作用，或者已不用。存档
+
+# 番茄小说 （不起作用）
+# DOMAIN-SUFFIX,vc-brain.ndcpp.com
+# IP-CIDR6,2408:8459:2c10:5d86:420d:3a85:17be:2/128,no-resolve
+# IP-CIDR6,2408:8459:3460:2a72:5679:8e74:a11:d0bd/128,no-resolve
+# 番茄小说
+DOMAIN-SUFFIX,fqnovelvod.com
+
+
+
+
+# 【比心】不玩了，存档
+# 个推
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,volceapplog.com
+
+
+# Wegame 不玩了，存档
+# 活动弹窗
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
