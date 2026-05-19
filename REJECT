@@ -21,6 +21,13 @@ DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.weixin.qq.com
 DOMAIN,a.gdt.qq.com
 
+# 【比心】
+# 个推
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,volceapplog.com
+
+
 # 未知
 DOMAIN-SUFFIX,www.bytedance.com
 
