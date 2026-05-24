@@ -21,3 +21,78 @@ DOMAIN-SUFFIX,volceapplog.com
 # 活动弹窗
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,tgp.ied-tqos-s.qq.com
+
+# 【微信】测试中
+# dns
+IP-CIDR,42.81.232.18/32,no-resolve
+IP-CIDR,42.187.182.106/32,no-resolve
+IP-CIDR,42.187.182.123/32,no-resolve
+IP-CIDR,42.187.184.154/32,no-resolve
+IP-CIDR,123.151.54.50/32,no-resolve
+IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
+IP-CIDR6,240e:928:1400:10::25/128,no-resolve
+DOMAIN,aedns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,dns.weixin.qq.com
+DOMAIN,a.gdt.qq.com
+
+# 【比心】
+# 个推
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,volceapplog.com
+
+
+# 未知
+DOMAIN-SUFFIX,www.bytedance.com
+
+# 云闪付开屏广告
+DOMAIN,ads.95516.com
+DOMAIN,switch.cup.com.cn
+
+# 通用广告
+DOMAIN-SUFFIX,doubleclick-cn.net
+DOMAIN-SUFFIX,doubleclick.net
+
+# 中国联通
+DOMAIN-SUFFIX,m1.ad.10010.com
+
+# 似乎是小程序广告
+DOMAIN-SUFFIX,ad-ga.nocode.com
+
+# =====
+# JS错误上报（公众号常见）
+DOMAIN,badjs.weixinbridge.com
+
+# 腾讯统一错误收集
+DOMAIN,badjs.qq.com
+
+# 前端日志/监控
+DOMAIN,report.qq.com
+DOMAIN,report.weixin.qq.com
+
+# =====
+
+# 数据上报（腾讯系通用）
+DOMAIN,log.weixin.qq.com
+DOMAIN,log.tbs.qq.com
+DOMAIN,log.tpns.tencent.com
+
+# DOMAIN-SUFFIX,wxa.wxs.qq.com
+# DOMAIN-SUFFIX,wxsmw.wxs.qq.com
+# DOMAIN-SUFFIX,wximg.wxs.qq.com
+
+
+
+# 作者1
+DOMAIN-SUFFIX,ad.weixin.qq.com
+DOMAIN-SUFFIX,as.weixin.qq.com
+
+# 作者2 微信小程序通用规则
+# DOMAIN,wxsnsdy.wxs.qq.com
+DOMAIN,wxsmsdy.video.qq.com
+# DOMAIN,wxsnsdythumb.wxs.qq.com
+# 收钱吧广告
+DOMAIN,ads-shopping.shouqianba.com
+# 猫眼电影
+DOMAIN,ad.maoyan.com
