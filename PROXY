@@ -1,12 +1,1 @@
 # 需要代理的列表（个人向），持续更新。
-
-# 肥羊订阅转换
-DOMAIN-SUFFIX,v1.mk
-
-# 风车
-DOMAIN-SUFFIX,slll.in
-
-# 因为屏蔽广告关键词 "ads" 误杀
-# DOMAIN-KEYWORD,threads
-# DOMAIN-SUFFIX,threads.net
-# DOMAIN-SUFFIX,threads.com
